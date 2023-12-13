@@ -1,0 +1,600 @@
+{
+  "language": "de",
+  "version": 2,
+  "assessment_type": "employee",
+  "last_created": "16/03/2023 10:03:54",
+  "staticText": {
+    "ableTo": "Ich kann....",
+    "area": "Bereich",
+    "back": "Zur\u00fcck",
+    "continue": "Weiter",
+    "finish": "Fertig",
+    "hint": "Hinweis",
+    "previous": "Vorherige",
+    "next": "N\u00e4chste"
+  },
+  "answers": [
+    { "score": 1, "title": "Keine", "description": "Habe kein Verständnis." },
+    {
+      "score": 2,
+      "title": "Grundlagen",
+      "description": "Grundlegendes Verst\u00e4ndnis."
+    },
+    {
+      "score": 3,
+      "title": "Mittelstufe",
+      "description": "Erfahrung in der Anwendung haben."
+    },
+    {
+      "score": 4,
+      "title": "Fortgeschritten",
+      "description": "Trotz Herausforderungen die gew\u00fcnschten Ergebnisse erzielt haben."
+    },
+    {
+      "score": 5,
+      "title": "Experte",
+      "description": "Gilt als Referenz und Inspiration."
+    },
+    {
+      "score": 0,
+      "title": "\u00dcberspringen",
+      "description": "Die Frage/Antwort-Option ist unklar."
+    }
+  ],
+  "areas": [],
+  "items": [
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Chancen erkennen",
+      "hint": "Sie nutzen Ihre Vorstellungskraft, Ihr Wissen und Ihre F\u00e4higkeiten, um M\u00f6glichkeiten zur Wertsch\u00f6pfung zu identifizieren",
+      "question": "Scannen des Marktumfelds, um relevante Informationen zu erhalten",
+      "id": 1
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Chancen erkennen",
+      "hint": "Sie nutzen Ihre Vorstellungskraft, Ihr Wissen und Ihre F\u00e4higkeiten, um M\u00f6glichkeiten zur Wertsch\u00f6pfung zu identifizieren",
+      "question": "Erkennen von Herausforderungen durch Hinterfragen etablierter Vorstellungen",
+      "id": 2
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Chancen erkennen",
+      "hint": "Sie nutzen Ihre Vorstellungskraft, Ihr Wissen und Ihre F\u00e4higkeiten, um M\u00f6glichkeiten zur Wertsch\u00f6pfung zu identifizieren",
+      "question": "Schaffung von M\u00f6glichkeiten und deren Verankerung in der Organisation.",
+      "id": 3
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Chancen erkennen",
+      "hint": "Sie nutzen Ihre Vorstellungskraft, Ihr Wissen und Ihre F\u00e4higkeiten, um M\u00f6glichkeiten zur Wertsch\u00f6pfung zu identifizieren",
+      "question": "Chancen und M\u00f6glichkeiten durch Interaktion mit anderen entdecken (z.B. Kollegen/innen, Kund/innen, etc.)",
+      "id": 4
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Design-Orientierung",
+      "hint": "Sie konzentrieren Ihr Angebot auf die Bed\u00fcrfnisse der Nutzer",
+      "question": "Entwickeln eines nutzerorientierten Angebots",
+      "id": 5
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Design-Orientierung",
+      "hint": "Sie konzentrieren Ihr Angebot auf die Bed\u00fcrfnisse der Nutzer",
+      "question": "Bed\u00fcrfnisse der relevanten Zielgruppe erkennen",
+      "id": 6
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Design-Orientierung",
+      "hint": "Sie konzentrieren Ihr Angebot auf die Bed\u00fcrfnisse der Nutzer",
+      "question": "Antizipieren zuk\u00fcnftiger Bed\u00fcrfnisse der Nutzer/innen",
+      "id": 7
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Kreativit\u00e4t",
+      "hint": "Sie entwickeln kreative und zielgerichtete Ideen",
+      "question": "Den Status quo hinterfragen, d.h. die aktuellen L\u00f6sungen und Herangehensweisen hinterfragen und alternative Perspektiven einnehmen",
+      "id": 8
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Kreativit\u00e4t",
+      "hint": "Sie entwickeln kreative und zielgerichtete Ideen",
+      "question": "Disruptive Ver\u00e4nderungen vorantreiben",
+      "id": 9
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Kreativit\u00e4t",
+      "hint": "Sie entwickeln kreative und zielgerichtete Ideen",
+      "question": "Probleme kreativ l\u00f6sen",
+      "id": 10
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Kreativit\u00e4t",
+      "hint": "Sie entwickeln kreative und zielgerichtete Ideen",
+      "question": "Entwicklung von Ideen und deren Weiterentwicklung",
+      "id": 11
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Kreativit\u00e4t",
+      "hint": "Sie entwickeln kreative und zielgerichtete Ideen",
+      "question": "Entwicklung und Umsetzung von Innovationen (Produkt-, Technologie-, Prozess-, Marketing-Innovationen, etc.)",
+      "id": 12
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Vision",
+      "hint": "Sie verfolgen Ihre Vision der Zukunft",
+      "question": "Entwicklung einer inspirierenden Vision, um das Engagement f\u00fcr eine unternehmerische Idee zu f\u00f6rdern ",
+      "id": 13
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Vision",
+      "hint": "Sie verfolgen Ihre Vision der Zukunft",
+      "question": "Strategisches Denken im Einklang mit meiner langfristigen Vision",
+      "id": 14
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Vision",
+      "hint": "Sie verfolgen Ihre Vision der Zukunft",
+      "question": "Erstellung und Umsetzung eines Aktionsplans oder einer To-Do-Liste",
+      "id": 15
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Ideen bewerten ",
+      "hint": "Sie nutzen Ideen und M\u00f6glichkeiten optimal ",
+      "question": "Entwicklung von Strategien, um den Wert neuer Ideen zu bewerten",
+      "id": 16
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Ideen bewerten ",
+      "hint": "Sie nutzen Ideen und M\u00f6glichkeiten optimal ",
+      "question": "Identifizieren, welche/r Interessenvertreter/in welche Art von Wert einer neuen Idee bevorzugt (wirtschaftlich, Einfluss, Harmonie, etc.)",
+      "id": 17
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Ideen bewerten ",
+      "hint": "Sie nutzen Ideen und M\u00f6glichkeiten optimal ",
+      "question": "Schutz und gemeinsame Nutzung von geistigem Eigentum durch den Einsatz geeigneter Strategien (wie Patente, Urheberrechte, Marken, Vereinbarungen, etc.)",
+      "id": 18
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Ethisches und nachhaltiges Denken",
+      "hint": "Sie sch\u00e4tzen die Folgen und Auswirkungen von Ideen, Gelegenheiten und Handlungen ab",
+      "question": "Ethisches Verhalten bei der Umsetzung einer Idee annehmen und f\u00f6rdern",
+      "id": 19
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Ethisches und nachhaltiges Denken",
+      "hint": "Sie sch\u00e4tzen die Folgen und Auswirkungen von Ideen, Gelegenheiten und Handlungen ab",
+      "question": "\u00dcber die nachhaltigen Auswirkungen meiner Handlungen nachdenken, bevor ich sie ausf\u00fchre",
+      "id": 20
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Ethisches und nachhaltiges Denken",
+      "hint": "Sie sch\u00e4tzen die Folgen und Auswirkungen von Ideen, Gelegenheiten und Handlungen ab",
+      "question": "Erfassung und Bewertung der Auswirkungen meines Handelns ",
+      "id": 21
+    },
+    {
+      "area": "Ideen und M\u00f6glichkeiten ",
+      "competence": "Ethisches und nachhaltiges Denken",
+      "hint": "Sie sch\u00e4tzen die Folgen und Auswirkungen von Ideen, Gelegenheiten und Handlungen ab",
+      "question": "Verantwortung f\u00fcr mein Handeln \u00fcbernehmen",
+      "id": 22
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Selbstwahrnehmung und Selbstwirksamkeit",
+      "hint": "Sie glauben an Ihre F\u00e4higkeit, Aufgaben zu meistern und die gew\u00fcnschten Ergebnisse zu erzielen",
+      "question": "Meinen Ambitionen nachgehen, indem ich sie in erreichbare Ziele umsetze",
+      "id": 23
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Selbstwahrnehmung und Selbstwirksamkeit",
+      "hint": "Sie glauben an Ihre F\u00e4higkeit, Aufgaben zu meistern und die gew\u00fcnschten Ergebnisse zu erzielen",
+      "question": "Regelm\u00e4\u00dfige Ermittlung meiner St\u00e4rken und Schw\u00e4chen",
+      "id": 24
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Selbstwahrnehmung und Selbstwirksamkeit",
+      "hint": "Sie glauben an Ihre F\u00e4higkeit, Aufgaben zu meistern und die gew\u00fcnschten Ergebnisse zu erzielen",
+      "question": "Umsetzung einer unternehmensinternen Projektidee in der \u00dcberzeugung, dass ich die dabei auftretenden Schwierigkeiten bew\u00e4ltigen kann ",
+      "id": 25
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Selbstwahrnehmung und Selbstwirksamkeit",
+      "hint": "Sie glauben an Ihre F\u00e4higkeit, Aufgaben zu meistern und die gew\u00fcnschten Ergebnisse zu erzielen",
+      "question": "Meine Zukunft gestalten, indem ich die daf\u00fcr notwendigen F\u00e4higkeiten entwickle",
+      "id": 26
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Motivation und Durchhalteverm\u00f6gen",
+      "hint": "Sie bleiben fokussiert und geben nicht auf",
+      "question": "Langfristige Aufgaben nicht aus den Augen verlieren",
+      "id": 27
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Motivation und Durchhalteverm\u00f6gen",
+      "hint": "Sie bleiben fokussiert und geben nicht auf",
+      "question": "Bei der Umsetzung einer unternehmensinternen Projektidee motiviert und leidenschaftlich bleiben",
+      "id": 28
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Motivation und Durchhalteverm\u00f6gen",
+      "hint": "Sie bleiben fokussiert und geben nicht auf",
+      "question": "Meine Ziele trotz Unwegbarkeiten beharrlich verfolgen",
+      "id": 29
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Motivation und Durchhalteverm\u00f6gen",
+      "hint": "Sie bleiben fokussiert und geben nicht auf",
+      "question": "Resilienz (emotionales Durchhalteverm\u00f6gen) trotz Widrigkeiten zeigen",
+      "id": 30
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Finanzielle Ressourcen beschaffen",
+      "hint": "Sie beschaffen und managen die ben\u00f6tigten Ressourcen",
+      "question": "Beschaffung von (materiellen und immateriellen) Ressourcen, die f\u00fcr den Erfolg einer unternehmensinternen Projektidee erforderlich sind",
+      "id": 31
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Finanzielle Ressourcen beschaffen",
+      "hint": "Sie beschaffen und managen die ben\u00f6tigten Ressourcen",
+      "question": "Das Beste aus begrenzten Ressourcen machen",
+      "id": 32
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Finanzielle Ressourcen beschaffen",
+      "hint": "Sie beschaffen und managen die ben\u00f6tigten Ressourcen",
+      "question": "Proaktive Erstellung eines Budgetplans ",
+      "id": 33
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Finanzielle Ressourcen beschaffen",
+      "hint": "Sie beschaffen und managen die ben\u00f6tigten Ressourcen",
+      "question": "Sicherstellung der Finanzierung durch die Akquise von Geld aus verschiedenen Quellen",
+      "id": 34
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Finanzielle Ressourcen beschaffen",
+      "hint": "Sie beschaffen und managen die ben\u00f6tigten Ressourcen",
+      "question": "Die grundlegenden Mechanismen der Besteuerung verstehen und einhalten",
+      "id": 35
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Unternehmerische Kompetenz",
+      "hint": "Sie entwickeln finanzielles, wirtschaftliches und unternehmerisches Know-how",
+      "question": "Erlernen von Wirtschafts- und Finanzkonzepten (z. B. Angebot und Nachfrage, Cashflow, Gewinn und Verlust)",
+      "id": 36
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Unternehmerische Kompetenz",
+      "hint": "Sie entwickeln finanzielles, wirtschaftliches und unternehmerisches Know-how",
+      "question": "Verstehen von Marketing- und Vertriebskonzepten (z. B. Produkt, Preis, Werbung)  ",
+      "id": 37
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Unternehmerische Kompetenz",
+      "hint": "Sie entwickeln finanzielles, wirtschaftliches und unternehmerisches Know-how",
+      "question": "Entwicklung des Know-hows \u00fcber weitere Schl\u00fcsselkonzepte, die f\u00fcr die Umsetzung einer unternehmensinternen Projektidee erforderlich sind (z. B.  Betrieb, strategische Planung, Personalbeschaffung)",
+      "id": 38
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Unternehmerische Kompetenz",
+      "hint": "Sie entwickeln finanzielles, wirtschaftliches und unternehmerisches Know-how",
+      "question": "Ausbau meines Wissens \u00fcber die technisch-rechtlichen Aspekte der Umsetzung einer unternehmensinternen Projektidee",
+      "id": 39
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Andere mobilisieren",
+      "hint": "Sie inspirieren, begeistern und bringen andere dazu mitzumachen",
+      "question": "Sich von Vorbildern inspirieren lassen",
+      "id": 40
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Andere mobilisieren",
+      "hint": "Sie inspirieren, begeistern und bringen andere dazu mitzumachen",
+      "question": "Andere inspirieren, indem ich auch unter widrigen Umst\u00e4nden fokussiert bleibe",
+      "id": 41
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Andere mobilisieren",
+      "hint": "Sie inspirieren, begeistern und bringen andere dazu mitzumachen",
+      "question": "Andere davon \u00fcberzeugen, sich bei einer unternehmensinternen Projektidee zu involvieren",
+      "id": 42
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Andere mobilisieren",
+      "hint": "Sie inspirieren, begeistern und bringen andere dazu mitzumachen",
+      "question": "Verhandlungsstrategien entwickeln, die ethisch geleitet sind",
+      "id": 43
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Andere mobilisieren",
+      "hint": "Sie inspirieren, begeistern und bringen andere dazu mitzumachen",
+      "question": "Meine Botschaft klar und wirksam kommunizieren",
+      "id": 44
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Andere mobilisieren",
+      "hint": "Sie inspirieren, begeistern und bringen andere dazu mitzumachen",
+      "question": "Entwicklung effektiver Medienstrategien (social media und weitere) zur Mobilisierung anderer Personen",
+      "id": 45
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Digitale Kompetenzen",
+      "hint": "Sie managen und nutzen digitale Technologien, die man f\u00fcr eine unternehmensinterne Projektidee braucht ",
+      "question": "Wissen, wann und wie ich allgemeine digitale Anwendungen (MS Office, virtuelle Kommunikation, etc.) am besten f\u00fcr mein Vorhaben einsetzen kann",
+      "id": 46
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Digitale Kompetenzen",
+      "hint": "Sie managen und nutzen digitale Technologien, die man f\u00fcr eine unternehmensinterne Projektidee braucht ",
+      "question": "Einsatz komplexer digitaler Tools (CRM, Webanalyse, etc.), um eine unternehmensinterne Projektidee voranzubringen",
+      "id": 47
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Digitale Kompetenzen",
+      "hint": "Sie managen und nutzen digitale Technologien, die man f\u00fcr eine unternehmensinterne Projektidee braucht ",
+      "question": "Daten in aussagekr\u00e4ftigen und \u00fcbersichtlichen Darstellungen wie Schaubildern und Diagrammen aufbereiten",
+      "id": 48
+    },
+    {
+      "area": "Ressourcen",
+      "competence": "Digitale Kompetenzen",
+      "hint": "Sie managen und nutzen digitale Technologien, die man f\u00fcr eine unternehmensinterne Projektidee braucht ",
+      "question": "Einsatz von Schutzma\u00dfnahmen zur Vorbeugung von Cybersecurity-Risiken (z. B. Anti-Phishing-Richtlinien, Schutz vor Malware, etc.) zur Gew\u00e4hrleistung der eigenen Sicherheit sowie der Sicherheit anderer  ",
+      "id": 49
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Initiative ergreifen",
+      "hint": "Los geht\u2019s!",
+      "question": "\u00dcbernahme von Verantwortung bei der Ausf\u00fchrung von Aufgaben",
+      "id": 50
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Initiative ergreifen",
+      "hint": "Los geht\u2019s!",
+      "question": "Selbstst\u00e4ndiges und unabh\u00e4ngiges Arbeiten jenseits organisatorischer Zw\u00e4nge",
+      "id": 51
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Initiative ergreifen",
+      "hint": "Los geht\u2019s!",
+      "question": "Initiierung von Ma\u00dfnahmen zur Umsetzung neuer Ideen und M\u00f6glichkeiten",
+      "id": 52
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Planung und Management ",
+      "hint": "Sie setzen Priorit\u00e4ten, organisieren und fassen nach",
+      "question": "Festlegung klarer, erreichbarer und verfolgender Ziele",
+      "id": 53
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Planung und Management ",
+      "hint": "Sie setzen Priorit\u00e4ten, organisieren und fassen nach",
+      "question": "Sorgf\u00e4ltiges Planen und Organisieren, um eine unternehmensinterne Projektidee zum Erfolg zu f\u00fchren",
+      "id": 54
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Planung und Management ",
+      "hint": "Sie setzen Priorit\u00e4ten, organisieren und fassen nach",
+      "question": "Aufgabenpriorit\u00e4ten auch unter unsicheren Umst\u00e4nden festlegen",
+      "id": 55
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Planung und Management ",
+      "hint": "Sie setzen Priorit\u00e4ten, organisieren und fassen nach",
+      "question": "Effektive Zeitmanagementtechniken entwickeln",
+      "id": 56
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Planung und Management ",
+      "hint": "Sie setzen Priorit\u00e4ten, organisieren und fassen nach",
+      "question": "Entwicklung eines nachhaltigen Aktionsplans f\u00fcr eine unternehmensinterne Projektidee",
+      "id": 57
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Prozessmanagement",
+      "hint": "Sie managen Prozesse und geben ihnen eine Richtung, um mit einer unternehmensinternen Projektidee erfolgreich zu sein",
+      "question": "\u00dcberwachung des Fortschritts mit Hilfe geeigneter Indikatoren",
+      "id": 58
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Prozessmanagement",
+      "hint": "Sie managen Prozesse und geben ihnen eine Richtung, um mit einer unternehmensinternen Projektidee erfolgreich zu sein",
+      "question": "Meine Pl\u00e4ne neu ausrichten, wenn dies erforderlich ist",
+      "id": 59
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Prozessmanagement",
+      "hint": "Sie managen Prozesse und geben ihnen eine Richtung, um mit einer unternehmensinternen Projektidee erfolgreich zu sein",
+      "question": "Flexibel und anpassungsf\u00e4hig gegen\u00fcber Ver\u00e4nderungen sein",
+      "id": 60
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Prozessmanagement",
+      "hint": "Sie managen Prozesse und geben ihnen eine Richtung, um mit einer unternehmensinternen Projektidee erfolgreich zu sein",
+      "question": "Ver\u00e4nderungen im Team vorhersehen und darauf reagieren k\u00f6nnen",
+      "id": 61
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Prozessmanagement",
+      "hint": "Sie managen Prozesse und geben ihnen eine Richtung, um mit einer unternehmensinternen Projektidee erfolgreich zu sein",
+      "question": "Agil arbeiten, indem ich kurzfristige und erreichbare Ziele plane und meine Pl\u00e4ne entsprechend den Ergebnissen anpasse",
+      "id": 62
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Umgang mit Unsicherheit, Mehrdeutigkeit und Risiko",
+      "hint": "Sie entscheiden und f\u00fchren auch in unklaren Situationen",
+      "question": "Mit Ungewissheit, Mehrdeutigkeit und Risiko umgehen k\u00f6nnen",
+      "id": 63
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Umgang mit Unsicherheit, Mehrdeutigkeit und Risiko",
+      "hint": "Sie entscheiden und f\u00fchren auch in unklaren Situationen",
+      "question": "Abw\u00e4gen von Risiko und Nutzen einer unternehmensinternen Projektidee",
+      "id": 64
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Umgang mit Unsicherheit, Mehrdeutigkeit und Risiko",
+      "hint": "Sie entscheiden und f\u00fchren auch in unklaren Situationen",
+      "question": "Entwicklung von Risikomanagementstrategien f\u00fcr eine unternehmensinterne Projektidee",
+      "id": 65
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Designvalidierung und Co-Creation",
+      "hint": "Sie gestalten, entwickeln und testen  gemeinsam mit den Nutzern",
+      "question": "Identifizierung der Grundfunktionen eines Prototyps",
+      "id": 66
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Designvalidierung und Co-Creation",
+      "hint": "Sie gestalten, entwickeln und testen  gemeinsam mit den Nutzern",
+      "question": "Testen und Verfeinern wesentlicher (Grund-)Annahmen sowie des Prototyps ",
+      "id": 67
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Designvalidierung und Co-Creation",
+      "hint": "Sie gestalten, entwickeln und testen  gemeinsam mit den Nutzern",
+      "question": "Entwicklung von Produkten, Dienstleistungen oder L\u00f6sungen gemeinsam mit anderen",
+      "id": 68
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Zusammenarbeit mit anderen",
+      "hint": "Sie bilden ein Team, arbeiten gemeinsam und vernetzen sich",
+      "question": "F\u00f6rderung der Vielfalt in meinem Team durch Offenheit f\u00fcr unterschiedliche (Pers\u00f6nlichkeits-)Profile und Meinungen",
+      "id": 69
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Zusammenarbeit mit anderen",
+      "hint": "Sie bilden ein Team, arbeiten gemeinsam und vernetzen sich",
+      "question": "Emotionale Intelligenz entwickeln und zeigen",
+      "id": 70
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Zusammenarbeit mit anderen",
+      "hint": "Sie bilden ein Team, arbeiten gemeinsam und vernetzen sich",
+      "question": "Meinen Nutzern/innen sowie anderen relevanten Interessengruppen aktiv Geh\u00f6r schenken",
+      "id": 71
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Zusammenarbeit mit anderen",
+      "hint": "Sie bilden ein Team, arbeiten gemeinsam und vernetzen sich",
+      "question": "Mobilisierung nicht nur meines Teams, sondern auch Aufbau eines kleinen \u00d6kosystems innerhalb der Organisation",
+      "id": 72
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Zusammenarbeit mit anderen",
+      "hint": "Sie bilden ein Team, arbeiten gemeinsam und vernetzen sich",
+      "question": "Strukturiert und harmonisch mit anderen zusammenarbeiten",
+      "id": 73
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Zusammenarbeit mit anderen",
+      "hint": "Sie bilden ein Team, arbeiten gemeinsam und vernetzen sich",
+      "question": "Aufbau von emotional positiven Beziehungen zu Projektpartnern/innen (einschlie\u00dflich Mentoren/innen, Investoren/innen, Teammitgliedern, etc.)",
+      "id": 74
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Zusammenarbeit mit anderen",
+      "hint": "Sie bilden ein Team, arbeiten gemeinsam und vernetzen sich",
+      "question": "Aufbau eines Netzwerks, das meine unternehmensinterne Projektidee unterst\u00fctzt",
+      "id": 75
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Zusammenarbeit mit anderen",
+      "hint": "Sie bilden ein Team, arbeiten gemeinsam und vernetzen sich",
+      "question": "Mein Netzwerk proaktiv ausbauen",
+      "id": 76
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Durch Erfahrung lernen",
+      "hint": "Learning by doing",
+      "question": "Misserfolge und Erfolge reflektieren und daraus lernen",
+      "id": 77
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Durch Erfahrung lernen",
+      "hint": "Learning by doing",
+      "question": "Aktive Nutzung von M\u00f6glichkeiten, um meine St\u00e4rken auszubauen und meine Schw\u00e4chen zu verringern ",
+      "id": 78
+    },
+    {
+      "area": "In Aktion ",
+      "competence": "Durch Erfahrung lernen",
+      "hint": "Learning by doing",
+      "question": "Aus meinen fr\u00fcheren Erfahrungen oder denen anderer lernen k\u00f6nnen",
+      "id": 79
+    }
+  ]
+}

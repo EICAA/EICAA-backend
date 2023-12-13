@@ -1,0 +1,600 @@
+{
+  "language": "en",
+  "version": 9,
+  "assessment_type": "student",
+  "last_created": "16/03/2023 10:12:33",
+  "staticText": {
+    "ableTo": "I am able to...",
+    "area": "Area",
+    "back": "Back",
+    "continue": "Continue",
+    "finish": "Finish",
+    "hint": "Hint",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "answers": [
+    { "score": 1, "title": "None", "description": "Have no understanding." },
+    {
+      "score": 2,
+      "title": "Basic",
+      "description": "Have basic understanding."
+    },
+    {
+      "score": 3,
+      "title": "Intermediate",
+      "description": "Have experience in applying."
+    },
+    {
+      "score": 4,
+      "title": "Advanced",
+      "description": "Have obtained desired outputs despite challenges."
+    },
+    {
+      "score": 5,
+      "title": "Expert",
+      "description": "Considered as a reference and inspiration."
+    },
+    {
+      "score": 0,
+      "title": "Skip",
+      "description": "The question/answer option is not clear."
+    }
+  ],
+  "areas": [],
+  "items": [
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Spotting opportunities",
+      "hint": "Using your imagination, knowledge, and abilities to identify opportunities for creating value.",
+      "question": "Scanning the market environment to obtain relevant information",
+      "id": 1
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Spotting opportunities",
+      "hint": "Using your imagination, knowledge, and abilities to identify opportunities for creating value.",
+      "question": "Identifying challenges by questioning mainstream ideas",
+      "id": 2
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Spotting opportunities",
+      "hint": "Using your imagination, knowledge, and abilities to identify opportunities for creating value.",
+      "question": "Creating opportunities by actively using my knowledge",
+      "id": 3
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Spotting opportunities",
+      "hint": "Using your imagination, knowledge, and abilities to identify opportunities for creating value.",
+      "question": "Discovering opportunities by interacting with others (like peers, colleagues, mentors, etc.)",
+      "id": 4
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Design orientation",
+      "hint": "Focus your offer on the needs of the users.",
+      "question": "Developing a user-oriented offering",
+      "id": 5
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Design orientation",
+      "hint": "Focus your offer on the needs of the users.",
+      "question": "Identifying the needs of relevant target groups",
+      "id": 6
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Design orientation",
+      "hint": "Focus your offer on the needs of the users.",
+      "question": "Anticipating future needs",
+      "id": 7
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Creativity",
+      "hint": "Develop creative and purposeful ideas.",
+      "question": "Challenging the status quo, i.e., question the current solutions and ways of operating and providing alternative points of view",
+      "id": 8
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Creativity",
+      "hint": "Develop creative and purposeful ideas.",
+      "question": "Promoting and leading disruptive changes",
+      "id": 9
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Creativity",
+      "hint": "Develop creative and purposeful ideas.",
+      "question": "Solving problems creatively",
+      "id": 10
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Creativity",
+      "hint": "Develop creative and purposeful ideas.",
+      "question": "Generating ideas and developing them",
+      "id": 11
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Creativity",
+      "hint": "Develop creative and purposeful ideas.",
+      "question": "Developing and implementing innovations (product, technology, process, marketing, etc.)",
+      "id": 12
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Vision",
+      "hint": "Work towards your vision of the future.",
+      "question": "Developing an inspiring vision to get commitment towards an entrepreneurial idea ",
+      "id": 13
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Vision",
+      "hint": "Work towards your vision of the future.",
+      "question": "Thinking strategically in alignment with my long-term vision",
+      "id": 14
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Vision",
+      "hint": "Work towards your vision of the future.",
+      "question": "Guiding action by building and implementing an action plan or a to-do list",
+      "id": 15
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Valuing ideas",
+      "hint": "Make the most of ideas and opportunities.",
+      "question": "Developing strategies to assess the value of new ideas",
+      "id": 16
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Valuing ideas",
+      "hint": "Make the most of ideas and opportunities.",
+      "question": "Identifying which stakeholder prefers which value type of a new idea (economic, influence, harmony, etc.)",
+      "id": 17
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Valuing ideas",
+      "hint": "Make the most of ideas and opportunities.",
+      "question": "Protecting and sharing intellectual property by using appropriate strategies (like patents, copyrights, trademarks, agreements, etc.)",
+      "id": 18
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Ethical and sustainable thinking",
+      "hint": "Assess the consequences and impact of ideas, opportunities, and actions.",
+      "question": "Adopting and promoting ethical behavior when turning an idea into action",
+      "id": 19
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Ethical and sustainable thinking",
+      "hint": "Assess the consequences and impact of ideas, opportunities, and actions.",
+      "question": "Thinking about the sustainable impact of my actions before executing them",
+      "id": 20
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Ethical and sustainable thinking",
+      "hint": "Assess the consequences and impact of ideas, opportunities, and actions.",
+      "question": "Monitoring and assessing the impact of what I do ",
+      "id": 21
+    },
+    {
+      "area": "Ideas and Opportunities ",
+      "competence": "Ethical and sustainable thinking",
+      "hint": "Assess the consequences and impact of ideas, opportunities, and actions.",
+      "question": "Accepting responsibility for my actions ",
+      "id": 22
+    },
+    {
+      "area": "Resources",
+      "competence": "Self-awareness and self-efficacy",
+      "hint": "Believe in your ability to perform tasks and achieve desired results.",
+      "question": "Following my aspirations by translating them into achievable goals",
+      "id": 23
+    },
+    {
+      "area": "Resources",
+      "competence": "Self-awareness and self-efficacy",
+      "hint": "Believe in your ability to perform tasks and achieve desired results.",
+      "question": "Identifying my strengths and weaknesses regularly",
+      "id": 24
+    },
+    {
+      "area": "Resources",
+      "competence": "Self-awareness and self-efficacy",
+      "hint": "Believe in your ability to perform tasks and achieve desired results.",
+      "question": "Implementing an entrepreneurial idea believing that I can tackle the difficulties that may arise ",
+      "id": 25
+    },
+    {
+      "area": "Resources",
+      "competence": "Self-awareness and self-efficacy",
+      "hint": "Believe in your ability to perform tasks and achieve desired results.",
+      "question": "Shaping my future by developing necessary skills",
+      "id": 26
+    },
+    {
+      "area": "Resources",
+      "competence": "Motivation and perseverance",
+      "hint": "Stay focused and don\u2019t give up.",
+      "question": "Maintaining my focus on long-term tasks",
+      "id": 27
+    },
+    {
+      "area": "Resources",
+      "competence": "Motivation and perseverance",
+      "hint": "Stay focused and don\u2019t give up.",
+      "question": "Staying motivated and passionate when realising an entrepreneurial idea",
+      "id": 28
+    },
+    {
+      "area": "Resources",
+      "competence": "Motivation and perseverance",
+      "hint": "Stay focused and don\u2019t give up.",
+      "question": "Persevering in the pursuit of my goals, despite difficulties",
+      "id": 29
+    },
+    {
+      "area": "Resources",
+      "competence": "Motivation and perseverance",
+      "hint": "Stay focused and don\u2019t give up.",
+      "question": "Showing resilience (staying emotionally well) in the face of adversities",
+      "id": 30
+    },
+    {
+      "area": "Resources",
+      "competence": "Mobilising (financial) resources",
+      "hint": "Get and manage the resources you need.",
+      "question": "Acquiring (material and non-material) resources needed to make an entrepreneurial idea successful",
+      "id": 31
+    },
+    {
+      "area": "Resources",
+      "competence": "Mobilising (financial) resources",
+      "hint": "Get and manage the resources you need.",
+      "question": "Making the most of limited resources",
+      "id": 32
+    },
+    {
+      "area": "Resources",
+      "competence": "Mobilising (financial) resources",
+      "hint": "Get and manage the resources you need.",
+      "question": "Proactively designing a budget plan ",
+      "id": 33
+    },
+    {
+      "area": "Resources",
+      "competence": "Mobilising (financial) resources",
+      "hint": "Get and manage the resources you need.",
+      "question": "Securing funding by raising money from diverse sources",
+      "id": 34
+    },
+    {
+      "area": "Resources",
+      "competence": "Mobilising (financial) resources",
+      "hint": "Get and manage the resources you need.",
+      "question": "Understanding and complying with the basic mechanisms of taxation",
+      "id": 35
+    },
+    {
+      "area": "Resources",
+      "competence": "Enterprising literacy",
+      "hint": "Develop financial, economic, and enterprising know-how.",
+      "question": "Learning about economic and financial concepts (such as supply & demand, cash flow, profit & loss)",
+      "id": 36
+    },
+    {
+      "area": "Resources",
+      "competence": "Enterprising literacy",
+      "hint": "Develop financial, economic, and enterprising know-how.",
+      "question": "Understanding marketing and sales concepts (such as product, price, promotion)  ",
+      "id": 37
+    },
+    {
+      "area": "Resources",
+      "competence": "Enterprising literacy",
+      "hint": "Develop financial, economic, and enterprising know-how.",
+      "question": "Developing the know-how of other key concepts required to implement an entrepreneurial idea,   like operations, strategic planning, recruiting",
+      "id": 38
+    },
+    {
+      "area": "Resources",
+      "competence": "Enterprising literacy",
+      "hint": "Develop financial, economic, and enterprising know-how.",
+      "question": "Building on my knowledge of the technical-legal aspects to realise an entrepreneurial idea",
+      "id": 39
+    },
+    {
+      "area": "Resources",
+      "competence": "Mobilising others",
+      "hint": "Inspire, enthuse, and get others on board.",
+      "question": "Seeking inspiration from role models",
+      "id": 40
+    },
+    {
+      "area": "Resources",
+      "competence": "Mobilising others",
+      "hint": "Inspire, enthuse, and get others on board.",
+      "question": "Inspiring others by maintaining momentum even in adverse circumstances",
+      "id": 41
+    },
+    {
+      "area": "Resources",
+      "competence": "Mobilising others",
+      "hint": "Inspire, enthuse, and get others on board.",
+      "question": "Persuading others to engage them with an entrepreneurial idea",
+      "id": 42
+    },
+    {
+      "area": "Resources",
+      "competence": "Mobilising others",
+      "hint": "Inspire, enthuse, and get others on board.",
+      "question": "Developing ethical negotiation strategies",
+      "id": 43
+    },
+    {
+      "area": "Resources",
+      "competence": "Mobilising others",
+      "hint": "Inspire, enthuse, and get others on board.",
+      "question": "Communicating my message clearly and effectively",
+      "id": 44
+    },
+    {
+      "area": "Resources",
+      "competence": "Mobilising others",
+      "hint": "Inspire, enthuse, and get others on board.",
+      "question": "Developing effective media (social and other) strategies to mobilise others",
+      "id": 45
+    },
+    {
+      "area": "Resources",
+      "competence": "Digital competence",
+      "hint": "Manage and use the digital technologies necessary for an entrepreneurial idea.",
+      "question": "Knowing when and how to use general digital tools (MS Office, virtual communication, etc.) best suited for my purpose",
+      "id": 46
+    },
+    {
+      "area": "Resources",
+      "competence": "Digital competence",
+      "hint": "Manage and use the digital technologies necessary for an entrepreneurial idea.",
+      "question": "Employing complex digital tools (CRM, web analytics, etc.) to grow an entrepreneurial idea",
+      "id": 47
+    },
+    {
+      "area": "Resources",
+      "competence": "Digital competence",
+      "hint": "Manage and use the digital technologies necessary for an entrepreneurial idea.",
+      "question": "Reporting data in meaningful and clear ways like graphs and charts",
+      "id": 48
+    },
+    {
+      "area": "Resources",
+      "competence": "Digital competence",
+      "hint": "Manage and use the digital technologies necessary for an entrepreneurial idea.",
+      "question": "Ensuring own and others\u2019 safety against cybersecurity risks through protective measures (e.g., anti-phishing guidelines, malware protection, etc.)",
+      "id": 49
+    },
+    {
+      "area": "Into Action",
+      "competence": "Taking the initiative",
+      "hint": "Go for it.",
+      "question": "Taking responsibility while performing tasks",
+      "id": 50
+    },
+    {
+      "area": "Into Action",
+      "competence": "Taking the initiative",
+      "hint": "Go for it.",
+      "question": "Working independently when required",
+      "id": 51
+    },
+    {
+      "area": "Into Action",
+      "competence": "Taking the initiative",
+      "hint": "Go for it.",
+      "question": "Initiating action on new ideas and opportunities",
+      "id": 52
+    },
+    {
+      "area": "Into Action",
+      "competence": "Planning and management",
+      "hint": "Prioritise, organise, and follow-up.",
+      "question": "Defining clear and achievable goals",
+      "id": 53
+    },
+    {
+      "area": "Into Action",
+      "competence": "Planning and management",
+      "hint": "Prioritise, organise, and follow-up.",
+      "question": "Planning and organizing carefully to make an entrepreneurial idea successful",
+      "id": 54
+    },
+    {
+      "area": "Into Action",
+      "competence": "Planning and management",
+      "hint": "Prioritise, organise, and follow-up.",
+      "question": "Defining priorities for tasks, even in uncertain circumstances    ",
+      "id": 55
+    },
+    {
+      "area": "Into Action",
+      "competence": "Planning and management",
+      "hint": "Prioritise, organise, and follow-up.",
+      "question": "Develop effective time management techniques",
+      "id": 56
+    },
+    {
+      "area": "Into Action",
+      "competence": "Planning and management",
+      "hint": "Prioritise, organise, and follow-up.",
+      "question": "Developing a sustainable plan of action for an entrepreneurial idea",
+      "id": 57
+    },
+    {
+      "area": "Into Action",
+      "competence": "Process management",
+      "hint": "Manage and align processes with the goals to succeed in an entrepreneurship idea.",
+      "question": "Monitoring progress by using appropriate metrics",
+      "id": 58
+    },
+    {
+      "area": "Into Action",
+      "competence": "Process management",
+      "hint": "Manage and align processes with the goals to succeed in an entrepreneurship idea.",
+      "question": "Redirecting my plans when necessary",
+      "id": 59
+    },
+    {
+      "area": "Into Action",
+      "competence": "Process management",
+      "hint": "Manage and align processes with the goals to succeed in an entrepreneurship idea.",
+      "question": "Being flexible and adaptive to changes",
+      "id": 60
+    },
+    {
+      "area": "Into Action",
+      "competence": "Process management",
+      "hint": "Manage and align processes with the goals to succeed in an entrepreneurship idea.",
+      "question": "Anticipating team changes and being able to respond to them",
+      "id": 61
+    },
+    {
+      "area": "Into Action",
+      "competence": "Process management",
+      "hint": "Manage and align processes with the goals to succeed in an entrepreneurship idea.",
+      "question": "Working agile by planning short-term and achievable goals and adapting my plans according to my results",
+      "id": 62
+    },
+    {
+      "area": "Into Action",
+      "competence": "Coping with uncertainty, ambiguity and risk",
+      "hint": "Decide and lead even in vague situations.",
+      "question": "Coping with uncertainty, ambiguity, risk",
+      "id": 63
+    },
+    {
+      "area": "Into Action",
+      "competence": "Coping with uncertainty, ambiguity and risk",
+      "hint": "Decide and lead even in vague situations.",
+      "question": "Calculating the risk versus the benefit of an entrepreneurial idea",
+      "id": 64
+    },
+    {
+      "area": "Into Action",
+      "competence": "Coping with uncertainty, ambiguity and risk",
+      "hint": "Decide and lead even in vague situations.",
+      "question": "Developing risk management strategies for an entrepreneurial idea",
+      "id": 65
+    },
+    {
+      "area": "Into Action",
+      "competence": "Design validation and Co-Creation",
+      "hint": "Co-create, prototype, and test with the users. ",
+      "question": "Identifying basic functions of a prototype",
+      "id": 66
+    },
+    {
+      "area": "Into Action",
+      "competence": "Design validation and Co-Creation",
+      "hint": "Co-create, prototype, and test with the users. ",
+      "question": "Testing and refining the key assumptions and the prototype",
+      "id": 67
+    },
+    {
+      "area": "Into Action",
+      "competence": "Design validation and Co-Creation",
+      "hint": "Co-create, prototype, and test with the users. ",
+      "question": "Co-creating products, services or solutions with others",
+      "id": 68
+    },
+    {
+      "area": "Into Action",
+      "competence": "Working with others",
+      "hint": "Team up, work together, and network.",
+      "question": "Promoting the diversity in my team by being open to different profiles and points of view",
+      "id": 69
+    },
+    {
+      "area": "Into Action",
+      "competence": "Working with others",
+      "hint": "Team up, work together, and network.",
+      "question": "Developing and displaying emotional intelligence",
+      "id": 70
+    },
+    {
+      "area": "Into Action",
+      "competence": "Working with others",
+      "hint": "Team up, work together, and network.",
+      "question": "Listening actively to my users and other relevant stakeholders",
+      "id": 71
+    },
+    {
+      "area": "Into Action",
+      "competence": "Working with others",
+      "hint": "Team up, work together, and network.",
+      "question": "Building a team with balanced and complementary skills",
+      "id": 72
+    },
+    {
+      "area": "Into Action",
+      "competence": "Working with others",
+      "hint": "Team up, work together, and network.",
+      "question": "Working with others structurally and harmoniously",
+      "id": 73
+    },
+    {
+      "area": "Into Action",
+      "competence": "Working with others",
+      "hint": "Team up, work together, and network.",
+      "question": "Developing emotionally positive relationships with project partners (including mentors, investors, etc.)",
+      "id": 74
+    },
+    {
+      "area": "Into Action",
+      "competence": "Working with others",
+      "hint": "Team up, work together, and network.",
+      "question": "Building a network that supports my entrepreneurial idea",
+      "id": 75
+    },
+    {
+      "area": "Into Action",
+      "competence": "Working with others",
+      "hint": "Team up, work together, and network.",
+      "question": "Expanding my network proactively",
+      "id": 76
+    },
+    {
+      "area": "Into Action",
+      "competence": "Learning through experience",
+      "hint": "Learn by doing.",
+      "question": "Reflecting on and learning from failures and achievements",
+      "id": 77
+    },
+    {
+      "area": "Into Action",
+      "competence": "Learning through experience",
+      "hint": "Learn by doing.",
+      "question": "Actively engaging with opportunities to grow on my strengths and reduce my weaknesses",
+      "id": 78
+    },
+    {
+      "area": "Into Action",
+      "competence": "Learning through experience",
+      "hint": "Learn by doing.",
+      "question": "Learning from my or others\u2019 prior experiences",
+      "id": 79
+    }
+  ]
+}

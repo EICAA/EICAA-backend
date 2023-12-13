@@ -1,0 +1,600 @@
+{
+  "language": "ca",
+  "version": 9,
+  "assessment_type": "student",
+  "last_created": "16/03/2023 10:10:06",
+  "staticText": {
+    "ableTo": "S\u00f3c capa\u00e7 de...",
+    "area": "\u00c0rea",
+    "back": "Torna",
+    "continue": "Continua",
+    "finish": "Acabar",
+    "hint": "Pista",
+    "previous": "Anterior",
+    "next": "Seg\u00fcent"
+  },
+  "answers": [
+    { "score": 1, "title": "Cap", "description": "No tenir comprensi\u00f3." },
+    {
+      "score": 2,
+      "title": "B\u00e0sic",
+      "description": "Tenir una comprensi\u00f3 b\u00e0sica."
+    },
+    {
+      "score": 3,
+      "title": "Intermedi",
+      "description": "Tenir certa experi\u00e8ncia."
+    },
+    {
+      "score": 4,
+      "title": "Avan\u00e7at",
+      "description": "Haver obtingut els resultats desitjats malgrat els reptes."
+    },
+    {
+      "score": 5,
+      "title": "Expert",
+      "description": "Considerat com a refer\u00e8ncia i inspiraci\u00f3 per als altres."
+    },
+    {
+      "score": 0,
+      "title": "Saltar",
+      "description": "L'opci\u00f3 pregunta/resposta no est\u00e0 clara."
+    }
+  ],
+  "areas": [],
+  "items": [
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Identificar oportunitats",
+      "hint": "Utilitzar la imaginaci\u00f3, els coneixements i les habilitats per identificar oportunitats de creaci\u00f3 de valor",
+      "question": "Escanejar l'entorn de mercat per obtenir informaci\u00f3 rellevant",
+      "id": 1
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Identificar oportunitats",
+      "hint": "Utilitzar la imaginaci\u00f3, els coneixements i les habilitats per identificar oportunitats de creaci\u00f3 de valor",
+      "question": "Identificar reptes q\u00fcestionant les idees dominants",
+      "id": 2
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Identificar oportunitats",
+      "hint": "Utilitzar la imaginaci\u00f3, els coneixements i les habilitats per identificar oportunitats de creaci\u00f3 de valor",
+      "question": "Crear oportunitats utilitzant activament els meus coneixements",
+      "id": 3
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Identificar oportunitats",
+      "hint": "Utilitzar la imaginaci\u00f3, els coneixements i les habilitats per identificar oportunitats de creaci\u00f3 de valor",
+      "question": "Descobrir oportunitats interactuant amb els altres (com ara companys, col\u00b7legues, mentors, etc.)",
+      "id": 4
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Orientaci\u00f3 al disseny",
+      "hint": "Centrar la meva oferta en les necessitats dels usuaris",
+      "question": "Desenvolupar una oferta orientada a l'usuari",
+      "id": 5
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Orientaci\u00f3 al disseny",
+      "hint": "Centrar la meva oferta en les necessitats dels usuaris",
+      "question": "Identificar les necessitats d'un determinat grup o segment d'usuaris",
+      "id": 6
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Orientaci\u00f3 al disseny",
+      "hint": "Centrar la meva oferta en les necessitats dels usuaris",
+      "question": "Anticipar-se a les necessitats futures",
+      "id": 7
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Creativitat",
+      "hint": "Desenvolupar idees creatives i amb prop\u00f2sit",
+      "question": "Desafiar l'status quo, \u00e9s a dir, q\u00fcestionar les solucions i maneres actuals d'operar i proporcionar punts de vista alternatius",
+      "id": 8
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Creativitat",
+      "hint": "Desenvolupar idees creatives i amb prop\u00f2sit",
+      "question": "Promoure i liderar canvis disruptius",
+      "id": 9
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Creativitat",
+      "hint": "Desenvolupar idees creatives i amb prop\u00f2sit",
+      "question": "Resoldre problemes de manera creativa",
+      "id": 10
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Creativitat",
+      "hint": "Desenvolupar idees creatives i amb prop\u00f2sit",
+      "question": "Generar idees i desenvolupar-les",
+      "id": 11
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Creativitat",
+      "hint": "Desenvolupar idees creatives i amb prop\u00f2sit",
+      "question": "Desenvolupar i implementar innovacions (de producte, tecnologia, proc\u00e9s, m\u00e0rqueting, etc.)",
+      "id": 12
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Visi\u00f3",
+      "hint": "Treballar d'acord amb la meva visi\u00f3 de futur",
+      "question": "Desenvolupar una visi\u00f3 inspiradora per aconseguir comprom\u00eds amb una idea emprenedora",
+      "id": 13
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Visi\u00f3",
+      "hint": "Treballar d'acord amb la meva visi\u00f3 de futur",
+      "question": "Pensar estrat\u00e8gicament d'acord amb la meva visi\u00f3 a llarg termini",
+      "id": 14
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Visi\u00f3",
+      "hint": "Treballar d'acord amb la meva visi\u00f3 de futur",
+      "question": "Orientar l'acci\u00f3 construint i implementant un pla d'acci\u00f3 o una llista de tasques pendents",
+      "id": 15
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Avaluar idees",
+      "hint": "Aprofitar al m\u00e0xim les idees i oportunitats ",
+      "question": "Desenvolupar estrat\u00e8gies per avaluar el valor de noves idees",
+      "id": 16
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Avaluar idees",
+      "hint": "Aprofitar al m\u00e0xim les idees i oportunitats ",
+      "question": "Identificar quin tipus de valor aportar als usuaris i altres grups d'inter\u00e8s (econ\u00f2mic, mediambiental, social, ...) ",
+      "id": 17
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Avaluar idees",
+      "hint": "Aprofitar al m\u00e0xim les idees i oportunitats ",
+      "question": "Protegir i compartir la propietat intel\u00b7lectual mitjan\u00e7ant l'\u00fas d'estrat\u00e8gies adequades (com ara patents, drets d'autor, marques comercials, acords, etc.)",
+      "id": 18
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Pensament \u00e8tic i sostenible",
+      "hint": "Avaluar les conseq\u00fc\u00e8ncies i l'impacte d'idees, oportunitats i accions",
+      "question": "Adoptar i promoure un comportament \u00e8tic a l'hora de convertir una idea en acci\u00f3",
+      "id": 19
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Pensament \u00e8tic i sostenible",
+      "hint": "Avaluar les conseq\u00fc\u00e8ncies i l'impacte d'idees, oportunitats i accions",
+      "question": "Pensar en l'impacte mediambiental de les meves accions abans d'executar-les",
+      "id": 20
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Pensament \u00e8tic i sostenible",
+      "hint": "Avaluar les conseq\u00fc\u00e8ncies i l'impacte d'idees, oportunitats i accions",
+      "question": "Fer seguiment i avaluaci\u00f3 de l'impacte de les accions que realitzo",
+      "id": 21
+    },
+    {
+      "area": "Idees i Oportunitats",
+      "competence": "Pensament \u00e8tic i sostenible",
+      "hint": "Avaluar les conseq\u00fc\u00e8ncies i l'impacte d'idees, oportunitats i accions",
+      "question": "Acceptar la responsabilitat de les meves accions",
+      "id": 22
+    },
+    {
+      "area": "Recursos",
+      "competence": "Autoconsci\u00e8ncia i auotefic\u00e0cia",
+      "hint": "Confiar en la meva capacitat per a realitzar tasques i aconseguir els resultats desitjats",
+      "question": "Seguir les meves aspiracions traduint-les en objectius assolibles",
+      "id": 23
+    },
+    {
+      "area": "Recursos",
+      "competence": "Autoconsci\u00e8ncia i auotefic\u00e0cia",
+      "hint": "Confiar en la meva capacitat per a realitzar tasques i aconseguir els resultats desitjats",
+      "question": "Identificar els meus punts forts i febles regularment",
+      "id": 24
+    },
+    {
+      "area": "Recursos",
+      "competence": "Autoconsci\u00e8ncia i auotefic\u00e0cia",
+      "hint": "Confiar en la meva capacitat per a realitzar tasques i aconseguir els resultats desitjats",
+      "question": "Implementar una idea emprenedora confiant en fer front a les dificultats que puguin sorgir ",
+      "id": 25
+    },
+    {
+      "area": "Recursos",
+      "competence": "Autoconsci\u00e8ncia i auotefic\u00e0cia",
+      "hint": "Confiar en la meva capacitat per a realitzar tasques i aconseguir els resultats desitjats",
+      "question": "Donar forma al meu futur desenvolupant les habilitats necess\u00e0ries",
+      "id": 26
+    },
+    {
+      "area": "Recursos",
+      "competence": "Motivaci\u00f3 i perseveran\u00e7a",
+      "hint": "Mantenir-me enfocat/da i no dispersar-me",
+      "question": "Mantenir el meu enfocament en tasques a llarg termini",
+      "id": 27
+    },
+    {
+      "area": "Recursos",
+      "competence": "Motivaci\u00f3 i perseveran\u00e7a",
+      "hint": "Mantenir-me enfocat/da i no dispersar-me",
+      "question": "Mantenir-me motivat i apassionat a l'hora de realitzar una idea emprenedora",
+      "id": 28
+    },
+    {
+      "area": "Recursos",
+      "competence": "Motivaci\u00f3 i perseveran\u00e7a",
+      "hint": "Mantenir-me enfocat/da i no dispersar-me",
+      "question": "Perseverar en l'assoliment dels meus objectius, malgrat les dificultats",
+      "id": 29
+    },
+    {
+      "area": "Recursos",
+      "competence": "Motivaci\u00f3 i perseveran\u00e7a",
+      "hint": "Mantenir-me enfocat/da i no dispersar-me",
+      "question": "Mostrar resili\u00e8ncia (mantenir-se emocionalment estable) davant les adversitats",
+      "id": 30
+    },
+    {
+      "area": "Recursos",
+      "competence": "Mobilitzar recursos (financers)",
+      "hint": "Aconseguir i gestionar els recursos necessaris",
+      "question": "Adquirir els recursos (materials i no materials) necessaris perqu\u00e8 una idea emprenedora tingui \u00e8xit",
+      "id": 31
+    },
+    {
+      "area": "Recursos",
+      "competence": "Mobilitzar recursos (financers)",
+      "hint": "Aconseguir i gestionar els recursos necessaris",
+      "question": "Aprofitar al m\u00e0xim els recursos limitats",
+      "id": 32
+    },
+    {
+      "area": "Recursos",
+      "competence": "Mobilitzar recursos (financers)",
+      "hint": "Aconseguir i gestionar els recursos necessaris",
+      "question": "Dissenyar proactivament un pressupost vinculat a una idea o projecte",
+      "id": 33
+    },
+    {
+      "area": "Recursos",
+      "competence": "Mobilitzar recursos (financers)",
+      "hint": "Aconseguir i gestionar els recursos necessaris",
+      "question": "Aconseguir finan\u00e7ament mitjan\u00e7ant la captaci\u00f3 d'ingressos de diverses fonts",
+      "id": 34
+    },
+    {
+      "area": "Recursos",
+      "competence": "Mobilitzar recursos (financers)",
+      "hint": "Aconseguir i gestionar els recursos necessaris",
+      "question": "Con\u00e8ixer i complir la normativa  fiscal",
+      "id": 35
+    },
+    {
+      "area": "Recursos",
+      "competence": "Educaci\u00f3 empresarial",
+      "hint": "Desenvolupar coneixements financers, econ\u00f2mics i empresarials",
+      "question": "Aprendre conceptes econ\u00f2mics i financers (com ara oferta i demanda, flux de caixa, p\u00e8rdues i guanys)",
+      "id": 36
+    },
+    {
+      "area": "Recursos",
+      "competence": "Educaci\u00f3 empresarial",
+      "hint": "Desenvolupar coneixements financers, econ\u00f2mics i empresarials",
+      "question": "Entendre conceptes de m\u00e0rqueting i vendes (com ara producte, preu, promoci\u00f3 i empla\u00e7ament)  ",
+      "id": 37
+    },
+    {
+      "area": "Recursos",
+      "competence": "Educaci\u00f3 empresarial",
+      "hint": "Desenvolupar coneixements financers, econ\u00f2mics i empresarials",
+      "question": "Desenvolupar els coneixements d'altres conceptes clau necessaris per implementar una idea emprenedora, com ara operacions, planificaci\u00f3 estrat\u00e8gica, reclutament, ...",
+      "id": 38
+    },
+    {
+      "area": "Recursos",
+      "competence": "Educaci\u00f3 empresarial",
+      "hint": "Desenvolupar coneixements financers, econ\u00f2mics i empresarials",
+      "question": "Aprofitar els meus coneixements dels aspectes legals per desenvolupar una idea emprenedora ",
+      "id": 39
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar als altres",
+      "hint": "Inspirar, entusiasmar i aconseguir que els altres s'involucrin",
+      "question": "Buscar inspiraci\u00f3 en models a seguir",
+      "id": 40
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar als altres",
+      "hint": "Inspirar, entusiasmar i aconseguir que els altres s'involucrin",
+      "question": "Inspirar als altres mantenint l'energia fins i tot en circumst\u00e0ncies adverses",
+      "id": 41
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar als altres",
+      "hint": "Inspirar, entusiasmar i aconseguir que els altres s'involucrin",
+      "question": "Persuadir els altres per tal que s' involucrin amb una idea emprenedora",
+      "id": 42
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar als altres",
+      "hint": "Inspirar, entusiasmar i aconseguir que els altres s'involucrin",
+      "question": "Desenvolupar estrat\u00e8gies \u00e8tiques de negociaci\u00f3",
+      "id": 43
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar als altres",
+      "hint": "Inspirar, entusiasmar i aconseguir que els altres s'involucrin",
+      "question": "Comunicar el meu missatge de manera clara i efica\u00e7",
+      "id": 44
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar als altres",
+      "hint": "Inspirar, entusiasmar i aconseguir que els altres s'involucrin",
+      "question": "Desenvolupar estrat\u00e8gies eficaces de comunicaci\u00f3 (xarxes socials i d'altres) per involucrar els altres",
+      "id": 45
+    },
+    {
+      "area": "Recursos",
+      "competence": "Compet\u00e8ncies digitals",
+      "hint": "Gestionar i utilitzar les tecnologies digitals necess\u00e0ries per a una idea emprenedora ",
+      "question": "Saber quan i com utilitzar les eines digitals generals (processador de textos, fulls de c\u00e0lcul, eines de comunicaci\u00f3 en l\u00ednia, etc.) m\u00e9s adequades per al meu prop\u00f2sit",
+      "id": 46
+    },
+    {
+      "area": "Recursos",
+      "competence": "Compet\u00e8ncies digitals",
+      "hint": "Gestionar i utilitzar les tecnologies digitals necess\u00e0ries per a una idea emprenedora ",
+      "question": "Utilitzar eines digitals avan\u00e7ades (CRM, anal\u00edtica web, etc.) per fer cr\u00e9ixer una idea emprenedora",
+      "id": 47
+    },
+    {
+      "area": "Recursos",
+      "competence": "Compet\u00e8ncies digitals",
+      "hint": "Gestionar i utilitzar les tecnologies digitals necess\u00e0ries per a una idea emprenedora ",
+      "question": "Comunicar informaci\u00f3 i dades de manera significativa i clara com ara amb gr\u00e0fics i taules",
+      "id": 48
+    },
+    {
+      "area": "Recursos",
+      "competence": "Compet\u00e8ncies digitals",
+      "hint": "Gestionar i utilitzar les tecnologies digitals necess\u00e0ries per a una idea emprenedora ",
+      "question": "Garantir la seguretat pr\u00f2pia i aliena contra els riscos de ciberseguretat mitjan\u00e7ant mesures de protecci\u00f3 (per exemple, directrius contra el phishing, protecci\u00f3 contra malware, etc.)",
+      "id": 49
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Prendre la iniciativa",
+      "hint": "Passar a l'acci\u00f3",
+      "question": "Assumir la responsabilitat en l'acompliment de les tasques",
+      "id": 50
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Prendre la iniciativa",
+      "hint": "Passar a l'acci\u00f3",
+      "question": "Treballar de manera aut\u00f2noma quan sigui necessari",
+      "id": 51
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Prendre la iniciativa",
+      "hint": "Passar a l'acci\u00f3",
+      "question": "Iniciar accions sobre noves idees i oportunitats",
+      "id": 52
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Planificaci\u00f3 i  gesti\u00f3",
+      "hint": "Prioritzar, organitzar i fer el seguiment",
+      "question": "Definir objectius clars i assolibles",
+      "id": 53
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Planificaci\u00f3 i  gesti\u00f3",
+      "hint": "Prioritzar, organitzar i fer el seguiment",
+      "question": "Planificar i organitzar acuradament perqu\u00e8 una idea emprenedora tingui \u00e8xit",
+      "id": 54
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Planificaci\u00f3 i  gesti\u00f3",
+      "hint": "Prioritzar, organitzar i fer el seguiment",
+      "question": "Definir prioritats per a les tasques, fins i tot en circumst\u00e0ncies incertes    ",
+      "id": 55
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Planificaci\u00f3 i  gesti\u00f3",
+      "hint": "Prioritzar, organitzar i fer el seguiment",
+      "question": "Desenvolupar t\u00e8cniques efectives de gesti\u00f3 del temps",
+      "id": 56
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Planificaci\u00f3 i  gesti\u00f3",
+      "hint": "Prioritzar, organitzar i fer el seguiment",
+      "question": "Desenvolupar un pla d'acci\u00f3 sostenible per a una idea emprenedora",
+      "id": 57
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Gestionar el proc\u00e9s",
+      "hint": "Gestionar i alinear processos amb els objectius per tenir \u00e8xit en una idea emprenedora",
+      "question": "Monitoritzar el progr\u00e9s mitjan\u00e7ant l'\u00fas d'indicadors adequats",
+      "id": 58
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Gestionar el proc\u00e9s",
+      "hint": "Gestionar i alinear processos amb els objectius per tenir \u00e8xit en una idea emprenedora",
+      "question": "Redirigir els meus plans quan sigui necessari",
+      "id": 59
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Gestionar el proc\u00e9s",
+      "hint": "Gestionar i alinear processos amb els objectius per tenir \u00e8xit en una idea emprenedora",
+      "question": "Ser flexible i adaptar-me als canvis",
+      "id": 60
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Gestionar el proc\u00e9s",
+      "hint": "Gestionar i alinear processos amb els objectius per tenir \u00e8xit en una idea emprenedora",
+      "question": "Anticipar-me als canvis a l'equip i poder donar-hi resposta",
+      "id": 61
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Gestionar el proc\u00e9s",
+      "hint": "Gestionar i alinear processos amb els objectius per tenir \u00e8xit en una idea emprenedora",
+      "question": "Treballar de forma \u00e0gil planificant objectius assolibles a curt termini i adaptant els meus plans segons els meus resultats",
+      "id": 62
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Fer front a la incertesa, l'ambig\u00fcitat i el risc",
+      "hint": "Decidir i liderar fins i tot en situacions incertes",
+      "question": "Fer front a la incertesa, l'ambig\u00fcitat i el risc",
+      "id": 63
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Fer front a la incertesa, l'ambig\u00fcitat i el risc",
+      "hint": "Decidir i liderar fins i tot en situacions incertes",
+      "question": "Calcular el risc versus el benefici d'una idea emprenedora",
+      "id": 64
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Fer front a la incertesa, l'ambig\u00fcitat i el risc",
+      "hint": "Decidir i liderar fins i tot en situacions incertes",
+      "question": "Desenvolupar estrat\u00e8gies de gesti\u00f3 de riscos per a una idea emprenedora",
+      "id": 65
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Validaci\u00f3 del disseny i co-creaci\u00f3",
+      "hint": "Co-crear, prototipar i testejar amb els usuaris",
+      "question": "Identificar les funcions b\u00e0siques d'un prototip",
+      "id": 66
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Validaci\u00f3 del disseny i co-creaci\u00f3",
+      "hint": "Co-crear, prototipar i testejar amb els usuaris",
+      "question": "Provar i refinar els sup\u00f2sits clau d'una idea mitjan\u00e7ant el prototip",
+      "id": 67
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Validaci\u00f3 del disseny i co-creaci\u00f3",
+      "hint": "Co-crear, prototipar i testejar amb els usuaris",
+      "question": "Co-crear productes, serveis o solucions amb altres persones",
+      "id": 68
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Treballar amb altres persones",
+      "hint": "Fer equip, treballar junts i fer xarxa",
+      "question": "Promoure la diversitat en el meu equip essent obert a diferents perfils i punts de vista",
+      "id": 69
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Treballar amb altres persones",
+      "hint": "Fer equip, treballar junts i fer xarxa",
+      "question": "Desenvolupar i mostrar intel\u00b7lig\u00e8ncia emocional",
+      "id": 70
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Treballar amb altres persones",
+      "hint": "Fer equip, treballar junts i fer xarxa",
+      "question": "Escoltar activament els usuaris i altres parts interessades rellevants",
+      "id": 71
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Treballar amb altres persones",
+      "hint": "Fer equip, treballar junts i fer xarxa",
+      "question": "Construir un equip amb habilitats equilibrades i complement\u00e0ries",
+      "id": 72
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Treballar amb altres persones",
+      "hint": "Fer equip, treballar junts i fer xarxa",
+      "question": "Treballar amb els altres de manera estructurada i harm\u00f2nica",
+      "id": 73
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Treballar amb altres persones",
+      "hint": "Fer equip, treballar junts i fer xarxa",
+      "question": "Desenvolupar relacions emocionalment positives amb els socis del projecte (inclosos mentors, inversors, etc.)",
+      "id": 74
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Treballar amb altres persones",
+      "hint": "Fer equip, treballar junts i fer xarxa",
+      "question": "Construir una xarxa que doni suport a la meva idea emprenedora",
+      "id": 75
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Treballar amb altres persones",
+      "hint": "Fer equip, treballar junts i fer xarxa",
+      "question": "Ampliar la meva xarxa de forma proactiva",
+      "id": 76
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Aprendre de l'experi\u00e8ncia",
+      "hint": "Aprendre fent",
+      "question": "Reflexionar i aprendre dels fracassos i \u00e8xits",
+      "id": 77
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Aprendre de l'experi\u00e8ncia",
+      "hint": "Aprendre fent",
+      "question": "Aprofitar activament les oportunitats d'aprenentatge per potenciar els meus punts forts i reduir les meves debilitats",
+      "id": 78
+    },
+    {
+      "area": "Passar a l'acci\u00f3",
+      "competence": "Aprendre de l'experi\u00e8ncia",
+      "hint": "Aprendre fent",
+      "question": "Aprendre de les meves experi\u00e8ncies i de les dels altres",
+      "id": 79
+    }
+  ]
+}

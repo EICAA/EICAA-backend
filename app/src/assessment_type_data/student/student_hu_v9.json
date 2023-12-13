@@ -1,0 +1,600 @@
+{
+  "language": "hu",
+  "version": 9,
+  "assessment_type": "student",
+  "last_created": "16/03/2023 10:13:44",
+  "staticText": {
+    "ableTo": "K\u00e9pes vagyok...",
+    "area": "Ter\u00fclet",
+    "back": "Vissza",
+    "continue": "Folytat\u00e1s",
+    "finish": "Befejez\u00e9s",
+    "hint": "C\u00e9l",
+    "previous": "El\u0151z\u0151",
+    "next": "K\u00f6vetkez\u0151"
+  },
+  "answers": [
+    { "score": 1, "title": "Nincs", "description": "Nincs megértése." },
+    {
+      "score": 2,
+      "title": "Kezdő",
+      "description": "Alapvető megértéssel rendelkezik."
+    },
+    {
+      "score": 3,
+      "title": "Középhaladó",
+      "description": "Tapasztalattal rendelkezik a gyakorlati alkalmazásban."
+    },
+    {
+      "score": 4,
+      "title": "Haladó",
+      "description": "Kihívások ellenére elérte a kívánt eredményeket."
+    },
+    {
+      "score": 5,
+      "title": "Szakértő",
+      "description": "Referenciaként és inspirációként szolgál mások számára."
+    },
+    {
+      "score": 0,
+      "title": "Skip",
+      "description": "The question/answer option is not clear."
+    }
+  ],
+  "areas": [],
+  "items": [
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "A lehet\u0151s\u00e9gek felismer\u00e9se",
+      "hint": "Azonos\u00edtani az \u00e9rt\u00e9kteremt\u00e9si lehet\u0151s\u00e9geket k\u00e9pzeleted, tud\u00e1sod \u00e9s k\u00e9pess\u00e9geid haszn\u00e1lat\u00e1val.",
+      "question": "A piaci k\u00f6rnyezetet figyelemmel k\u00eds\u00e9r\u00e9se relev\u00e1ns inform\u00e1ci\u00f3k megszerz\u00e9se \u00e9rdek\u00e9ben",
+      "id": 1
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "A lehet\u0151s\u00e9gek felismer\u00e9se",
+      "hint": "Azonos\u00edtani az \u00e9rt\u00e9kteremt\u00e9si lehet\u0151s\u00e9geket k\u00e9pzeleted, tud\u00e1sod \u00e9s k\u00e9pess\u00e9geid haszn\u00e1lat\u00e1val.",
+      "question": "A kih\u00edv\u00e1sok azonos\u00edt\u00e1sa az \u00e1ltal\u00e1nos elk\u00e9pzel\u00e9sek megk\u00e9rd\u0151jelez\u00e9s\u00e9vel",
+      "id": 2
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "A lehet\u0151s\u00e9gek felismer\u00e9se",
+      "hint": "Azonos\u00edtani az \u00e9rt\u00e9kteremt\u00e9si lehet\u0151s\u00e9geket k\u00e9pzeleted, tud\u00e1sod \u00e9s k\u00e9pess\u00e9geid haszn\u00e1lat\u00e1val.",
+      "question": "Lehet\u0151s\u00e9gek teremt\u00e9se a tud\u00e1som akt\u00edv felhaszn\u00e1l\u00e1s\u00e1val",
+      "id": 3
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "A lehet\u0151s\u00e9gek felismer\u00e9se",
+      "hint": "Azonos\u00edtani az \u00e9rt\u00e9kteremt\u00e9si lehet\u0151s\u00e9geket k\u00e9pzeleted, tud\u00e1sod \u00e9s k\u00e9pess\u00e9geid haszn\u00e1lat\u00e1val.",
+      "question": "Lehet\u0151s\u00e9gek felt\u00e1r\u00e1sa m\u00e1sokkal (p\u00e9ld\u00e1ul t\u00e1rsakkal, koll\u00e9g\u00e1kkal, mentorokkal stb.) val\u00f3 interakci\u00f3 r\u00e9v\u00e9n.",
+      "id": 4
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Tervez\u00e9si k\u00e9pess\u00e9g",
+      "hint": "A felhaszn\u00e1l\u00f3k ig\u00e9nyeire szabott megold\u00e1s k\u00e9sz\u00edt\u00e9se",
+      "question": "Felhaszn\u00e1l\u00f3-orient\u00e1lt aj\u00e1nlat kialak\u00edt\u00e1sa",
+      "id": 5
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Tervez\u00e9si k\u00e9pess\u00e9g",
+      "hint": "A felhaszn\u00e1l\u00f3k ig\u00e9nyeire szabott megold\u00e1s k\u00e9sz\u00edt\u00e9se",
+      "question": "A relev\u00e1ns c\u00e9lcsoportok ig\u00e9nyeinek azonos\u00edt\u00e1sa",
+      "id": 6
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Tervez\u00e9si k\u00e9pess\u00e9g",
+      "hint": "A felhaszn\u00e1l\u00f3k ig\u00e9nyeire szabott megold\u00e1s k\u00e9sz\u00edt\u00e9se",
+      "question": "A j\u00f6v\u0151beli ig\u00e9nyek el\u0151rejelz\u00e9se",
+      "id": 7
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Kreativit\u00e1s",
+      "hint": "Kreat\u00edv \u00e9s c\u00e9ltudatos \u00f6tletek kidolgoz\u00e1sa",
+      "question": "A status quo megk\u00e9rd\u0151jelez\u00e9se, azaz a jelenlegi megold\u00e1sok \u00e9s m\u0171k\u00f6d\u00e9si m\u00f3dok \u00fajra\u00e9rt\u00e9kel\u00e9se, valamint alternat\u00edv n\u00e9z\u0151pontok felvet\u00e9se",
+      "id": 8
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Kreativit\u00e1s",
+      "hint": "Kreat\u00edv \u00e9s c\u00e9ltudatos \u00f6tletek kidolgoz\u00e1sa",
+      "question": "A  forradalmi v\u00e1ltoz\u00e1sok el\u0151mozd\u00edt\u00e1sa \u00e9s vezet\u00e9se",
+      "id": 9
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Kreativit\u00e1s",
+      "hint": "Kreat\u00edv \u00e9s c\u00e9ltudatos \u00f6tletek kidolgoz\u00e1sa",
+      "question": "Probl\u00e9m\u00e1k kreat\u00edv megold\u00e1sa",
+      "id": 10
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Kreativit\u00e1s",
+      "hint": "Kreat\u00edv \u00e9s c\u00e9ltudatos \u00f6tletek kidolgoz\u00e1sa",
+      "question": "\u00d6tletek gener\u00e1l\u00e1sa \u00e9s fejleszt\u00e9se",
+      "id": 11
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Kreativit\u00e1s",
+      "hint": "Kreat\u00edv \u00e9s c\u00e9ltudatos \u00f6tletek kidolgoz\u00e1sa",
+      "question": "Innov\u00e1ci\u00f3k (term\u00e9k, technol\u00f3gia, folyamat, marketing stb.) kidolgoz\u00e1sa \u00e9s megval\u00f3s\u00edt\u00e1sa",
+      "id": 12
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "V\u00edzi\u00f3",
+      "hint": "A j\u00f6v\u0151k\u00e9ped \u00e9rdek\u00e9ben munk\u00e1lkodni",
+      "question": "Inspir\u00e1l\u00f3 j\u00f6v\u0151k\u00e9p kidolgoz\u00e1sa a v\u00e1llalkoz\u00f3i \u00f6tlet ir\u00e1nti elk\u00f6telez\u0151d\u00e9s \u00e9rdek\u00e9ben",
+      "id": 13
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "V\u00edzi\u00f3",
+      "hint": "A j\u00f6v\u0151k\u00e9ped \u00e9rdek\u00e9ben munk\u00e1lkodni",
+      "question": "Strat\u00e9giai gondolkod\u00e1s, \u00f6sszhangban a hossz\u00fa t\u00e1v\u00fa j\u00f6v\u0151k\u00e9pemmel ",
+      "id": 14
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "V\u00edzi\u00f3",
+      "hint": "A j\u00f6v\u0151k\u00e9ped \u00e9rdek\u00e9ben munk\u00e1lkodni",
+      "question": "A tev\u00e9kenys\u00e9g ir\u00e1ny\u00edt\u00e1sa cselekv\u00e9si terv vagy teend\u0151lista \u00f6ssze\u00e1ll\u00edt\u00e1s\u00e1val \u00e9s v\u00e9grehajt\u00e1s\u00e1val",
+      "id": 15
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "\u00d6tletek \u00e9rt\u00e9kel\u00e9se",
+      "hint": "A legt\u00f6bbet kihozni az \u00f6tletekb\u0151l \u00e9s lehet\u0151s\u00e9gekb\u0151l ",
+      "question": "Strat\u00e9gi\u00e1k kidolgoz\u00e1sa az \u00faj \u00f6tletek \u00e9rt\u00e9k\u00e9nek felm\u00e9r\u00e9s\u00e9re",
+      "id": 16
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "\u00d6tletek \u00e9rt\u00e9kel\u00e9se",
+      "hint": "A legt\u00f6bbet kihozni az \u00f6tletekb\u0151l \u00e9s lehet\u0151s\u00e9gekb\u0151l ",
+      "question": "Annak meghat\u00e1roz\u00e1sa, hogy melyik \u00e9rdekelt f\u00e9l milyen t\u00edpus\u00fa \u00e9rt\u00e9keket r\u00e9szes\u00edti el\u0151nyben az \u00faj \u00f6tletben (gazdas\u00e1g, befoly\u00e1s, harm\u00f3nia stb.)",
+      "id": 17
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "\u00d6tletek \u00e9rt\u00e9kel\u00e9se",
+      "hint": "A legt\u00f6bbet kihozni az \u00f6tletekb\u0151l \u00e9s lehet\u0151s\u00e9gekb\u0151l ",
+      "question": "A szellemi tulajdon v\u00e9delme \u00e9s megoszt\u00e1sa megfelel\u0151 strat\u00e9gi\u00e1k (p\u00e9ld\u00e1ul szabadalmak, szerz\u0151i jogok, v\u00e9djegyek, meg\u00e1llapod\u00e1sok stb.) alkalmaz\u00e1s\u00e1val",
+      "id": 18
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Etikus \u00e9s fenntarthat\u00f3 gondolkod\u00e1s",
+      "hint": "Az \u00f6tletek, lehet\u0151s\u00e9gek \u00e9s cselekv\u00e9sek k\u00f6vetkezm\u00e9nyeinek \u00e9s hat\u00e1s\u00e1nak felm\u00e9r\u00e9se",
+      "question": "Az etikus viselked\u00e9s elfogad\u00e1sa \u00e9s el\u0151mozd\u00edt\u00e1sa egy \u00f6tlet megval\u00f3s\u00edt\u00e1sa sor\u00e1n",
+      "id": 19
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Etikus \u00e9s fenntarthat\u00f3 gondolkod\u00e1s",
+      "hint": "Az \u00f6tletek, lehet\u0151s\u00e9gek \u00e9s cselekv\u00e9sek k\u00f6vetkezm\u00e9nyeinek \u00e9s hat\u00e1s\u00e1nak felm\u00e9r\u00e9se",
+      "question": "\u00c1tgondolni a tetteim fenntarthat\u00f3 hat\u00e1s\u00e1t, miel\u0151tt v\u00e9grehajtan\u00e1m \u0151ket",
+      "id": 20
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Etikus \u00e9s fenntarthat\u00f3 gondolkod\u00e1s",
+      "hint": "Az \u00f6tletek, lehet\u0151s\u00e9gek \u00e9s cselekv\u00e9sek k\u00f6vetkezm\u00e9nyeinek \u00e9s hat\u00e1s\u00e1nak felm\u00e9r\u00e9se",
+      "question": "Tev\u00e9kenys\u00e9gem hat\u00e1s\u00e1nak nyomon k\u00f6vet\u00e9se \u00e9s \u00e9rt\u00e9kel\u00e9se ",
+      "id": 21
+    },
+    {
+      "area": "\u00d6tletek \u00e9s lehet\u0151s\u00e9gek",
+      "competence": "Etikus \u00e9s fenntarthat\u00f3 gondolkod\u00e1s",
+      "hint": "Az \u00f6tletek, lehet\u0151s\u00e9gek \u00e9s cselekv\u00e9sek k\u00f6vetkezm\u00e9nyeinek \u00e9s hat\u00e1s\u00e1nak felm\u00e9r\u00e9se",
+      "question": "Felel\u0151ss\u00e9get v\u00e1llalni a tetteim\u00e9rt ",
+      "id": 22
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "\u00d6nismeret \u00e9s \u00f6nbizalom",
+      "hint": "Hinni abban, hogy k\u00e9pes vagy elv\u00e9gezni a feladatokat \u00e9s el\u00e9rni a k\u00edv\u00e1nt eredm\u00e9nyeket",
+      "question": "\u00c1lmaim megval\u00f3s\u00edt\u00e1sa az\u00e1ltal, hogy azokat el\u00e9rhet\u0151 c\u00e9lokk\u00e1 alak\u00edtom \u00e1t",
+      "id": 23
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "\u00d6nismeret \u00e9s \u00f6nbizalom",
+      "hint": "Hinni abban, hogy k\u00e9pes vagy elv\u00e9gezni a feladatokat \u00e9s el\u00e9rni a k\u00edv\u00e1nt eredm\u00e9nyeket",
+      "question": "Er\u0151ss\u00e9geim \u00e9s gyenges\u00e9geim rendszeres beazonos\u00edt\u00e1sa",
+      "id": 24
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "\u00d6nismeret \u00e9s \u00f6nbizalom",
+      "hint": "Hinni abban, hogy k\u00e9pes vagy elv\u00e9gezni a feladatokat \u00e9s el\u00e9rni a k\u00edv\u00e1nt eredm\u00e9nyeket",
+      "question": "Egy v\u00e1llalkoz\u00f3i \u00f6tlet megval\u00f3s\u00edt\u00e1sa b\u00edzva abban, hogy meg tudom majd oldani az esetlegesen felmer\u00fcl\u0151 neh\u00e9zs\u00e9geket ",
+      "id": 25
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "\u00d6nismeret \u00e9s \u00f6nbizalom",
+      "hint": "Hinni abban, hogy k\u00e9pes vagy elv\u00e9gezni a feladatokat \u00e9s el\u00e9rni a k\u00edv\u00e1nt eredm\u00e9nyeket",
+      "question": "A j\u00f6v\u0151m alak\u00edt\u00e1sa a sz\u00fcks\u00e9ges k\u00e9szs\u00e9gek fejleszt\u00e9s\u00e9vel",
+      "id": 26
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "Motiv\u00e1lts\u00e1g \u00e9s kitart\u00e1s",
+      "hint": "Tart\u00f3san koncentr\u00e1lni \u00e9s nem feladni",
+      "question": "A hossz\u00fa t\u00e1v\u00fa feladatokra val\u00f3 \u00f6sszpontos\u00edt\u00e1s fenntart\u00e1sa",
+      "id": 27
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "Motiv\u00e1lts\u00e1g \u00e9s kitart\u00e1s",
+      "hint": "Tart\u00f3san koncentr\u00e1lni \u00e9s nem feladni",
+      "question": "Motiv\u00e1ltnak \u00e9s lelkesnek maradni egy v\u00e1llalkoz\u00f3i \u00f6tlet megval\u00f3s\u00edt\u00e1sakor",
+      "id": 28
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "Motiv\u00e1lts\u00e1g \u00e9s kitart\u00e1s",
+      "hint": "Tart\u00f3san koncentr\u00e1lni \u00e9s nem feladni",
+      "question": "Kitart\u00e1s a c\u00e9ljaim el\u00e9r\u00e9s\u00e9ben, a neh\u00e9zs\u00e9gek ellen\u00e9re",
+      "id": 29
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "Motiv\u00e1lts\u00e1g \u00e9s kitart\u00e1s",
+      "hint": "Tart\u00f3san koncentr\u00e1lni \u00e9s nem feladni",
+      "question": "Lend\u00fcletess\u00e9g (\u00e9rzelmileg j\u00f3 \u00e1llapot) a neh\u00e9zs\u00e9gekkel szemben is",
+      "id": 30
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "P\u00e9nz\u00fcgyi forr\u00e1sok kiakn\u00e1z\u00e1sa",
+      "hint": "Megszerezni \u00e9s kezelni a sz\u00fcks\u00e9ges er\u0151forr\u00e1sokat",
+      "question": "A v\u00e1llalkoz\u00f3i \u00f6tlet siker\u00e9hez sz\u00fcks\u00e9ges (anyagi \u00e9s nem anyagi) er\u0151forr\u00e1sok megszerz\u00e9se",
+      "id": 31
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "P\u00e9nz\u00fcgyi forr\u00e1sok kiakn\u00e1z\u00e1sa",
+      "hint": "Megszerezni \u00e9s kezelni a sz\u00fcks\u00e9ges er\u0151forr\u00e1sokat",
+      "question": "A legt\u00f6bbet kihozni a korl\u00e1tozott er\u0151forr\u00e1sokb\u00f3l",
+      "id": 32
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "P\u00e9nz\u00fcgyi forr\u00e1sok kiakn\u00e1z\u00e1sa",
+      "hint": "Megszerezni \u00e9s kezelni a sz\u00fcks\u00e9ges er\u0151forr\u00e1sokat",
+      "question": "K\u00f6lts\u00e9gvet\u00e9si terv proakt\u00edv kialak\u00edt\u00e1sa ",
+      "id": 33
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "P\u00e9nz\u00fcgyi forr\u00e1sok kiakn\u00e1z\u00e1sa",
+      "hint": "Megszerezni \u00e9s kezelni a sz\u00fcks\u00e9ges er\u0151forr\u00e1sokat",
+      "question": "A finansz\u00edroz\u00e1s biztos\u00edt\u00e1sa k\u00fcl\u00f6nb\u00f6z\u0151 forr\u00e1sokb\u00f3l sz\u00e1rmaz\u00f3 p\u00e9nzgy\u0171jt\u00e9ssel",
+      "id": 34
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "P\u00e9nz\u00fcgyi forr\u00e1sok kiakn\u00e1z\u00e1sa",
+      "hint": "Megszerezni \u00e9s kezelni a sz\u00fcks\u00e9ges er\u0151forr\u00e1sokat",
+      "question": "Az ad\u00f3z\u00e1s alapvet\u0151 mechanizmusainak meg\u00e9rt\u00e9se \u00e9s betart\u00e1sa",
+      "id": 35
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "V\u00e1llalkoz\u00f3i k\u00e9pzetts\u00e9g",
+      "hint": "Fejleszteni p\u00e9nz\u00fcgyi, gazdas\u00e1gi \u00e9s v\u00e1llalkoz\u00f3i ismereteidet",
+      "question": "A gazdas\u00e1gi \u00e9s p\u00e9nz\u00fcgyi fogalmak (p\u00e9ld\u00e1ul a k\u00edn\u00e1lat \u00e9s a kereslet, a cash flow, a nyeres\u00e9g \u00e9s a vesztes\u00e9g) megismer\u00e9se",
+      "id": 36
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "V\u00e1llalkoz\u00f3i k\u00e9pzetts\u00e9g",
+      "hint": "Fejleszteni p\u00e9nz\u00fcgyi, gazdas\u00e1gi \u00e9s v\u00e1llalkoz\u00f3i ismereteidet",
+      "question": "A marketing- \u00e9s \u00e9rt\u00e9kes\u00edt\u00e9si fogalmak (p\u00e9ld\u00e1ul term\u00e9k, \u00e1r, prom\u00f3ci\u00f3) meg\u00e9rt\u00e9se  ",
+      "id": 37
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "V\u00e1llalkoz\u00f3i k\u00e9pzetts\u00e9g",
+      "hint": "Fejleszteni p\u00e9nz\u00fcgyi, gazdas\u00e1gi \u00e9s v\u00e1llalkoz\u00f3i ismereteidet",
+      "question": "A v\u00e1llalkoz\u00f3i \u00f6tlet megval\u00f3s\u00edt\u00e1s\u00e1hoz sz\u00fcks\u00e9ges egy\u00e9b kulcsfogalmak \u2013 p\u00e9ld\u00e1ul m\u0171veletek, strat\u00e9giai tervez\u00e9s, toborz\u00e1s \u2013 know-how-j\u00e1nak fejleszt\u00e9se",
+      "id": 38
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "V\u00e1llalkoz\u00f3i k\u00e9pzetts\u00e9g",
+      "hint": "Fejleszteni p\u00e9nz\u00fcgyi, gazdas\u00e1gi \u00e9s v\u00e1llalkoz\u00f3i ismereteidet",
+      "question": "\u00c9p\u00edteni a m\u0171szaki-jogi szempontokkal kapcsolatos ismereteimre egy v\u00e1llalkoz\u00f3i \u00f6tlet megval\u00f3s\u00edt\u00e1sa \u00e9rdek\u00e9ben",
+      "id": 39
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "T\u00e1rsak mozg\u00f3s\u00edt\u00e1sa",
+      "hint": "Inspir\u00e1lni, lelkes\u00edteni, \u00e9s bevonni m\u00e1sokat is.",
+      "question": "P\u00e9ldak\u00e9pekt\u0151l szerezni inspir\u00e1ci\u00f3t  ",
+      "id": 40
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "T\u00e1rsak mozg\u00f3s\u00edt\u00e1sa",
+      "hint": "Inspir\u00e1lni, lelkes\u00edteni, \u00e9s bevonni m\u00e1sokat is.",
+      "question": "Inspir\u00e1lni m\u00e1sokat a lend\u00fclet fenntart\u00e1s\u00e1val m\u00e9g kedvez\u0151tlen k\u00f6r\u00fclm\u00e9nyek k\u00f6z\u00f6tt is",
+      "id": 41
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "T\u00e1rsak mozg\u00f3s\u00edt\u00e1sa",
+      "hint": "Inspir\u00e1lni, lelkes\u00edteni, \u00e9s bevonni m\u00e1sokat is.",
+      "question": "Meggy\u0151zni m\u00e1sokat, hogy csatlakozzanak egy v\u00e1llalkoz\u00f3i \u00f6tlethez",
+      "id": 42
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "T\u00e1rsak mozg\u00f3s\u00edt\u00e1sa",
+      "hint": "Inspir\u00e1lni, lelkes\u00edteni, \u00e9s bevonni m\u00e1sokat is.",
+      "question": "Etikus t\u00e1rgyal\u00e1si strat\u00e9gi\u00e1k kidolgoz\u00e1sa",
+      "id": 43
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "T\u00e1rsak mozg\u00f3s\u00edt\u00e1sa",
+      "hint": "Inspir\u00e1lni, lelkes\u00edteni, \u00e9s bevonni m\u00e1sokat is.",
+      "question": "Mondanival\u00f3m vil\u00e1gos \u00e9s hat\u00e9kony k\u00f6zl\u00e9se",
+      "id": 44
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "T\u00e1rsak mozg\u00f3s\u00edt\u00e1sa",
+      "hint": "Inspir\u00e1lni, lelkes\u00edteni, \u00e9s bevonni m\u00e1sokat is.",
+      "question": "M\u00e1sok mozg\u00f3s\u00edt\u00e1sa \u00e9rdek\u00e9ben hat\u00e9kony m\u00e9diastrat\u00e9gi\u00e1k kidolgoz\u00e1sa (k\u00f6z\u00f6ss\u00e9gi \u00e9s egy\u00e9b) ",
+      "id": 45
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "Digit\u00e1lis kompetenci\u00e1k",
+      "hint": "Kezelni \u00e9s haszn\u00e1lni a v\u00e1llalkoz\u00f3i \u00f6tlethez sz\u00fcks\u00e9ges digit\u00e1lis technol\u00f3gi\u00e1kat ",
+      "question": "Annak ismerete, hogy mikor \u00e9s hogyan kell haszn\u00e1lni a c\u00e9lomnak legink\u00e1bb megfelel\u0151 \u00e1ltal\u00e1nos digit\u00e1lis eszk\u00f6z\u00f6ket (MS Office, virtu\u00e1lis kommunik\u00e1ci\u00f3 stb.)",
+      "id": 46
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "Digit\u00e1lis kompetenci\u00e1k",
+      "hint": "Kezelni \u00e9s haszn\u00e1lni a v\u00e1llalkoz\u00f3i \u00f6tlethez sz\u00fcks\u00e9ges digit\u00e1lis technol\u00f3gi\u00e1kat ",
+      "question": "Komplex digit\u00e1lis eszk\u00f6z\u00f6k (CRM, webanalitika stb.) alkalmaz\u00e1sa egy v\u00e1llalkoz\u00f3i \u00f6tlet fejleszt\u00e9s\u00e9hez",
+      "id": 47
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "Digit\u00e1lis kompetenci\u00e1k",
+      "hint": "Kezelni \u00e9s haszn\u00e1lni a v\u00e1llalkoz\u00f3i \u00f6tlethez sz\u00fcks\u00e9ges digit\u00e1lis technol\u00f3gi\u00e1kat ",
+      "question": "Adatok megjelen\u00edt\u00e9se \u00e9rtelmes \u00e9s egy\u00e9rtelm\u0171 m\u00f3don, p\u00e9ld\u00e1ul grafikonokkal \u00e9s diagramokkal",
+      "id": 48
+    },
+    {
+      "area": "Er\u0151forr\u00e1sok",
+      "competence": "Digit\u00e1lis kompetenci\u00e1k",
+      "hint": "Kezelni \u00e9s haszn\u00e1lni a v\u00e1llalkoz\u00f3i \u00f6tlethez sz\u00fcks\u00e9ges digit\u00e1lis technol\u00f3gi\u00e1kat ",
+      "question": "Saj\u00e1t \u00e9s m\u00e1sok kiberbiztons\u00e1gi kock\u00e1zatokkal szembeni v\u00e9detts\u00e9g\u00e9t megteremteni (pl. adathal\u00e1szat elleni ir\u00e1nyelvek, rosszindulat\u00fa programok elleni v\u00e9delem stb.)   ",
+      "id": 49
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Kezdem\u00e9nyez\u0151k\u00e9szs\u00e9g",
+      "hint": "Cselekedni!",
+      "question": "Felel\u0151ss\u00e9gv\u00e1llal\u00e1s a feladatok elv\u00e9gz\u00e9se k\u00f6zben",
+      "id": 50
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Kezdem\u00e9nyez\u0151k\u00e9szs\u00e9g",
+      "hint": "Cselekedni!",
+      "question": "Sz\u00fcks\u00e9g eset\u00e9n \u00f6n\u00e1ll\u00f3 munkav\u00e9gz\u00e9s",
+      "id": 51
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Kezdem\u00e9nyez\u0151k\u00e9szs\u00e9g",
+      "hint": "Cselekedni!",
+      "question": "\u00daj \u00f6tletekkel \u00e9s lehet\u0151s\u00e9gekkel kapcsolatos tev\u00e9kenys\u00e9gek kezdem\u00e9nyez\u00e9se",
+      "id": 52
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Tervez\u00e9s \u00e9s menedzsment",
+      "hint": "Priorit\u00e1sok fel\u00e1ll\u00edtani, szervezni \u00e9s nyomon k\u00f6vetni",
+      "question": "Vil\u00e1gos \u00e9s el\u00e9rhet\u0151 c\u00e9lok meghat\u00e1roz\u00e1sa",
+      "id": 53
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Tervez\u00e9s \u00e9s menedzsment",
+      "hint": "Priorit\u00e1sok fel\u00e1ll\u00edtani, szervezni \u00e9s nyomon k\u00f6vetni",
+      "question": "Gondos tervez\u00e9s \u00e9s szervez\u00e9s a v\u00e1llalkoz\u00f3i \u00f6tlet sikerre vitel\u00e9hez",
+      "id": 54
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Tervez\u00e9s \u00e9s menedzsment",
+      "hint": "Priorit\u00e1sok fel\u00e1ll\u00edtani, szervezni \u00e9s nyomon k\u00f6vetni",
+      "question": "A feladatok priorit\u00e1sainak meghat\u00e1roz\u00e1sa, m\u00e9g bizonytalan k\u00f6r\u00fclm\u00e9nyek k\u00f6z\u00f6tt is    ",
+      "id": 55
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Tervez\u00e9s \u00e9s menedzsment",
+      "hint": "Priorit\u00e1sok fel\u00e1ll\u00edtani, szervezni \u00e9s nyomon k\u00f6vetni",
+      "question": "Hat\u00e9kony id\u0151gazd\u00e1lkod\u00e1si technik\u00e1k kimunk\u00e1l\u00e1sa",
+      "id": 56
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Tervez\u00e9s \u00e9s menedzsment",
+      "hint": "Priorit\u00e1sok fel\u00e1ll\u00edtani, szervezni \u00e9s nyomon k\u00f6vetni",
+      "question": "Fenntarthat\u00f3 cselekv\u00e9si terv kidolgoz\u00e1sa egy v\u00e1llalkoz\u00f3i \u00f6tlet sz\u00e1m\u00e1ra",
+      "id": 57
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Folyamat menedzsment",
+      "hint": "Kezelni \u00e9s \u00f6sszehangolni a folyamatokat a c\u00e9lokkal a v\u00e1llalkoz\u00e1si \u00f6tlet siker\u00e9nek \u00e9rdek\u00e9ben",
+      "question": "Az el\u0151rehalad\u00e1s nyomon k\u00f6vet\u00e9se megfelel\u0151 m\u00e9r\u0151sz\u00e1mok haszn\u00e1lat\u00e1val",
+      "id": 58
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Folyamat menedzsment",
+      "hint": "Kezelni \u00e9s \u00f6sszehangolni a folyamatokat a c\u00e9lokkal a v\u00e1llalkoz\u00e1si \u00f6tlet siker\u00e9nek \u00e9rdek\u00e9ben",
+      "question": "Sz\u00fcks\u00e9g eset\u00e9n a terveim \u00fajrafogalmaz\u00e1sa",
+      "id": 59
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Folyamat menedzsment",
+      "hint": "Kezelni \u00e9s \u00f6sszehangolni a folyamatokat a c\u00e9lokkal a v\u00e1llalkoz\u00e1si \u00f6tlet siker\u00e9nek \u00e9rdek\u00e9ben",
+      "question": "Rugalmass\u00e1g \u00e9s alkalmazkod\u00e1s a v\u00e1ltoz\u00e1sokhoz",
+      "id": 60
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Folyamat menedzsment",
+      "hint": "Kezelni \u00e9s \u00f6sszehangolni a folyamatokat a c\u00e9lokkal a v\u00e1llalkoz\u00e1si \u00f6tlet siker\u00e9nek \u00e9rdek\u00e9ben",
+      "question": "A csapat v\u00e1ltoz\u00e1sainak el\u0151rejelz\u00e9se \u00e9s az azokra val\u00f3 reag\u00e1l\u00e1s k\u00e9pess\u00e9ge",
+      "id": 61
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Folyamat menedzsment",
+      "hint": "Kezelni \u00e9s \u00f6sszehangolni a folyamatokat a c\u00e9lokkal a v\u00e1llalkoz\u00e1si \u00f6tlet siker\u00e9nek \u00e9rdek\u00e9ben",
+      "question": "Agilis munkav\u00e9gz\u00e9s a r\u00f6vid t\u00e1v\u00fa \u00e9s el\u00e9rhet\u0151 c\u00e9lok megtervez\u00e9s\u00e9vel \u00e9s a terveimnek az eredm\u00e9nyeimnek megfelel\u0151 kiigaz\u00edt\u00e1s\u00e1val.",
+      "id": 62
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Bizonytalans\u00e1g- \u00e9s kock\u00e1zatkezel\u00e9s",
+      "hint": "D\u00f6nteni \u00e9s vezetni m\u00e9g bizonytalan helyzetekben is",
+      "question": "Megbirk\u00f3zni a bizonytalans\u00e1ggal, a k\u00e9t\u00e9rtelm\u0171s\u00e9ggel, a kock\u00e1zattal.",
+      "id": 63
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Bizonytalans\u00e1g- \u00e9s kock\u00e1zatkezel\u00e9s",
+      "hint": "D\u00f6nteni \u00e9s vezetni m\u00e9g bizonytalan helyzetekben is",
+      "question": "Egy v\u00e1llalkoz\u00f3i \u00f6tlet kock\u00e1zat\u00e1nak \u00e9s haszn\u00e1nak kisz\u00e1m\u00edt\u00e1sa",
+      "id": 64
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Bizonytalans\u00e1g- \u00e9s kock\u00e1zatkezel\u00e9s",
+      "hint": "D\u00f6nteni \u00e9s vezetni m\u00e9g bizonytalan helyzetekben is",
+      "question": "Kock\u00e1zatkezel\u00e9si strat\u00e9gi\u00e1k kidolgoz\u00e1sa egy v\u00e1llalkoz\u00f3i \u00f6tlethez",
+      "id": 65
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Egy\u00fcttm\u0171k\u00f6d\u00e9s \u00e9s \u00e9rt\u00e9kel\u00e9s a tervez\u00e9sben",
+      "hint": "K\u00f6z\u00f6sen felhaszn\u00e1l\u00f3kkal alkotni, protot\u00edpust k\u00e9sz\u00edteni \u00e9s tesztelni",
+      "question": "A protot\u00edpus alapvet\u0151 funkci\u00f3inak azonos\u00edt\u00e1sa",
+      "id": 66
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Egy\u00fcttm\u0171k\u00f6d\u00e9s \u00e9s \u00e9rt\u00e9kel\u00e9s a tervez\u00e9sben",
+      "hint": "K\u00f6z\u00f6sen felhaszn\u00e1l\u00f3kkal alkotni, protot\u00edpust k\u00e9sz\u00edteni \u00e9s tesztelni",
+      "question": "A legfontosabb el\u0151feltev\u00e9sek \u00e9s a protot\u00edpus tesztel\u00e9se \u00e9s finomhangol\u00e1sa",
+      "id": 67
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Egy\u00fcttm\u0171k\u00f6d\u00e9s \u00e9s \u00e9rt\u00e9kel\u00e9s a tervez\u00e9sben",
+      "hint": "K\u00f6z\u00f6sen felhaszn\u00e1l\u00f3kkal alkotni, protot\u00edpust k\u00e9sz\u00edteni \u00e9s tesztelni",
+      "question": "M\u00e1sokkal egy\u00fctt l\u00e9trehozni \u00e1rukat, szolg\u00e1ltat\u00e1sokat vagy megold\u00e1sokat ",
+      "id": 68
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Egy\u00fcttm\u0171k\u00f6d\u00e9s m\u00e1sokkal",
+      "hint": "Csoportot alkotni, egy\u00fctt dolgozni \u00e9s kapcsolatokat \u00e9p\u00edteni.",
+      "question": "A soksz\u00edn\u0171s\u00e9g el\u0151mozd\u00edt\u00e1sa a csapatomban az\u00e1ltal, hogy nyitott vagyok a k\u00fcl\u00f6nb\u00f6z\u0151 szem\u00e9lyis\u00e9gekre \u00e9s n\u00e9z\u0151pontokra",
+      "id": 69
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Egy\u00fcttm\u0171k\u00f6d\u00e9s m\u00e1sokkal",
+      "hint": "Csoportot alkotni, egy\u00fctt dolgozni \u00e9s kapcsolatokat \u00e9p\u00edteni.",
+      "question": "Az \u00e9rzelmi intelligencia fejleszt\u00e9se \u00e9s megjelen\u00edt\u00e9se",
+      "id": 70
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Egy\u00fcttm\u0171k\u00f6d\u00e9s m\u00e1sokkal",
+      "hint": "Csoportot alkotni, egy\u00fctt dolgozni \u00e9s kapcsolatokat \u00e9p\u00edteni.",
+      "question": "Figyelemmel meghallgatni a felhaszn\u00e1l\u00f3imat \u00e9s m\u00e1s \u00e9rdekelt feleket",
+      "id": 71
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Egy\u00fcttm\u0171k\u00f6d\u00e9s m\u00e1sokkal",
+      "hint": "Csoportot alkotni, egy\u00fctt dolgozni \u00e9s kapcsolatokat \u00e9p\u00edteni.",
+      "question": "Kiegyens\u00falyozott \u00e9s egym\u00e1st kieg\u00e9sz\u00edt\u0151 k\u00e9szs\u00e9gekkel rendelkez\u0151 csapat kialak\u00edt\u00e1sa",
+      "id": 72
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Egy\u00fcttm\u0171k\u00f6d\u00e9s m\u00e1sokkal",
+      "hint": "Csoportot alkotni, egy\u00fctt dolgozni \u00e9s kapcsolatokat \u00e9p\u00edteni.",
+      "question": "M\u00e1sokkal struktur\u00e1ltan \u00e9s harmonikusan egy\u00fcttm\u0171k\u00f6dni",
+      "id": 73
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Egy\u00fcttm\u0171k\u00f6d\u00e9s m\u00e1sokkal",
+      "hint": "Csoportot alkotni, egy\u00fctt dolgozni \u00e9s kapcsolatokat \u00e9p\u00edteni.",
+      "question": "\u00c9rzelmileg pozit\u00edv kapcsolatok kialak\u00edt\u00e1sa a projektpartnerekkel (bele\u00e9rtve a mentorokat, befektet\u0151ket stb.)",
+      "id": 74
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Egy\u00fcttm\u0171k\u00f6d\u00e9s m\u00e1sokkal",
+      "hint": "Csoportot alkotni, egy\u00fctt dolgozni \u00e9s kapcsolatokat \u00e9p\u00edteni.",
+      "question": "A v\u00e1llalkoz\u00f3i elk\u00e9pzel\u00e9semet t\u00e1mogat\u00f3 kapcsolatok ki\u00e9p\u00edt\u00e9se",
+      "id": 75
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Egy\u00fcttm\u0171k\u00f6d\u00e9s m\u00e1sokkal",
+      "hint": "Csoportot alkotni, egy\u00fctt dolgozni \u00e9s kapcsolatokat \u00e9p\u00edteni.",
+      "question": "Kapcsolataim, h\u00e1l\u00f3zatom proakt\u00edv b\u0151v\u00edt\u00e9se",
+      "id": 76
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Tanul\u00e1s tapasztalatokon kereszt\u00fcl",
+      "hint": "A gyakorlatban tanulni.",
+      "question": "A kudarcok \u00e9s eredm\u00e9nyek \u00e1tgondol\u00e1sa \u00e9s az azokb\u00f3l val\u00f3 tanul\u00e1s.",
+      "id": 77
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Tanul\u00e1s tapasztalatokon kereszt\u00fcl",
+      "hint": "A gyakorlatban tanulni.",
+      "question": "Akt\u00edvan lehet\u0151s\u00e9geket tal\u00e1lni, hogy az er\u0151ss\u00e9geimet fejlesszem \u00e9s a gyenges\u00e9geimet cs\u00f6kkentsem",
+      "id": 78
+    },
+    {
+      "area": "Megval\u00f3s\u00edt\u00e1s",
+      "competence": "Tanul\u00e1s tapasztalatokon kereszt\u00fcl",
+      "hint": "A gyakorlatban tanulni.",
+      "question": "Tanul\u00e1s a saj\u00e1t vagy m\u00e1sok kor\u00e1bbi tapasztalataib\u00f3l",
+      "id": 79
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "language": "es",
+  "version": 2,
+  "assessment_type": "employee",
+  "last_created": "16/03/2023 10:05:19",
+  "staticText": {
+    "ableTo": "Soy capaz de....",
+    "area": "\u00c1rea",
+    "back": "Volver",
+    "continue": "Continuar",
+    "finish": "Finalizar",
+    "hint": "Hint",
+    "previous": "Anteriormente",
+    "next": "Siguiente"
+  },
+  "answers": [
+    {
+      "score": 1,
+      "title": "Ninguno",
+      "description": "No tienen comprensi\u00f3n."
+    },
+    {
+      "score": 2,
+      "title": "B\u00e1sico",
+      "description": "Tener conocimientos b\u00e1sicos."
+    },
+    {
+      "score": 3,
+      "title": "Intermedio",
+      "description": "Tener experiencia en la aplicaci\u00f3n de."
+    },
+    {
+      "score": 4,
+      "title": "Avanzado",
+      "description": "Han obtenido los resultados deseados a pesar de los desaf\u00edos."
+    },
+    {
+      "score": 5,
+      "title": "Experto",
+      "description": "Considerado como referencia e inspiraci\u00f3n."
+    },
+    {
+      "score": 0,
+      "title": "Saltar",
+      "description": "La opci\u00f3n de pregunta/respuesta no est\u00e1 clara."
+    }
+  ],
+  "areas": [],
+  "items": [
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Identificar oportunidades",
+      "hint": "Usar la imaginaci\u00f3n, los conocimientos y las habilidades para identificar oportunidades de creaci\u00f3n de valor",
+      "question": "Examinar el entorno del mercado para obtener informaci\u00f3n relevante",
+      "id": 1
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Identificar oportunidades",
+      "hint": "Usar la imaginaci\u00f3n, los conocimientos y las habilidades para identificar oportunidades de creaci\u00f3n de valor",
+      "question": "Identificar desaf\u00edos cuestionando las ideas dominantes",
+      "id": 2
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Identificar oportunidades",
+      "hint": "Usar la imaginaci\u00f3n, los conocimientos y las habilidades para identificar oportunidades de creaci\u00f3n de valor",
+      "question": "Crear oportunidades y establecerlas dentro de la organizaci\u00f3n",
+      "id": 3
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Identificar oportunidades",
+      "hint": "Usar la imaginaci\u00f3n, los conocimientos y las habilidades para identificar oportunidades de creaci\u00f3n de valor",
+      "question": "Descubrir oportunidades interactuando con otras personas (como colegas, inversores, clientes, etc.)",
+      "id": 4
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Orientaci\u00f3n al dise\u00f1o",
+      "hint": "Centrar mi oferta en las necesidades de los usuarios",
+      "question": "Desarrollar una oferta orientada al usuario",
+      "id": 5
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Orientaci\u00f3n al dise\u00f1o",
+      "hint": "Centrar mi oferta en las necesidades de los usuarios",
+      "question": "Identificar las necesidades de un determinado grupo o segmento de usurios",
+      "id": 6
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Orientaci\u00f3n al dise\u00f1o",
+      "hint": "Centrar mi oferta en las necesidades de los usuarios",
+      "question": "Anticipar las necesidades futuras de los usuarios",
+      "id": 7
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Creatividad",
+      "hint": "Desarrollar ideas creativas y con prop\u00f3sito",
+      "question": "Desafiar el statu quo, es decir, cuestionar las soluciones y formas de operar actuales y aportar puntos de vista alternativos",
+      "id": 8
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Creatividad",
+      "hint": "Desarrollar ideas creativas y con prop\u00f3sito",
+      "question": "Promover y liderar cambios disruptivos",
+      "id": 9
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Creatividad",
+      "hint": "Desarrollar ideas creativas y con prop\u00f3sito",
+      "question": "Resolver problemas de forma creativa",
+      "id": 10
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Creatividad",
+      "hint": "Desarrollar ideas creativas y con prop\u00f3sito",
+      "question": "Generar ideas persuasivas y desarrollarlas",
+      "id": 11
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Creatividad",
+      "hint": "Desarrollar ideas creativas y con prop\u00f3sito",
+      "question": "Desarrollar e implementar innovaciones (de producto, tecnolog\u00eda, proceso, marketing, etc.)",
+      "id": 12
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Visi\u00f3n",
+      "hint": "Trabajar acorde con mi visi\u00f3n del futuro",
+      "question": "Desarrollar una visi\u00f3n inspiradora para conseguir el compromiso con una idea intraemprendedora",
+      "id": 13
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Visi\u00f3n",
+      "hint": "Trabajar acorde con mi visi\u00f3n del futuro",
+      "question": "Pensar estrat\u00e9gicamente en consonancia con mi visi\u00f3n a largo plazo",
+      "id": 14
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Visi\u00f3n",
+      "hint": "Trabajar acorde con mi visi\u00f3n del futuro",
+      "question": "Guiar la acci\u00f3n mediante la elaboraci\u00f3n y aplicaci\u00f3n de un plan de acci\u00f3n o una lista de tareas pendientes",
+      "id": 15
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Evaluar ideas",
+      "hint": "Aprovechar al m\u00e1ximo las ideas y oportunidades ",
+      "question": "Desarrollar estrategias para evaluar el valor de las nuevas ideas",
+      "id": 16
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Evaluar ideas",
+      "hint": "Aprovechar al m\u00e1ximo las ideas y oportunidades ",
+      "question": "Identificar qu\u00e9 tipo de valor puedo aportar a los usuarios y grupos de inter\u00e9s (econ\u00f3mico, social, medio ambiental...)",
+      "id": 17
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Evaluar ideas",
+      "hint": "Aprovechar al m\u00e1ximo las ideas y oportunidades ",
+      "question": "Proteger y compartir la propiedad intelectual mediante el uso de estrategias apropiadas (como patentes, derechos de autor, marcas comerciales, acuerdos, etc.)",
+      "id": 18
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Pensamiento \u00e9tico y sostenible",
+      "hint": "Evaluar las consecuencias y el impacto de las ideas, oportunidades y acciones",
+      "question": "Adoptar y promover un comportamiento \u00e9tico al convertir una idea en acci\u00f3n",
+      "id": 19
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Pensamiento \u00e9tico y sostenible",
+      "hint": "Evaluar las consecuencias y el impacto de las ideas, oportunidades y acciones",
+      "question": "Pensar en el impacto medioambiental de mis acciones antes de ejecutarlas ",
+      "id": 20
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Pensamiento \u00e9tico y sostenible",
+      "hint": "Evaluar las consecuencias y el impacto de las ideas, oportunidades y acciones",
+      "question": "Monitorear y evaluar el impacto de las acciones que llevo a cabo",
+      "id": 21
+    },
+    {
+      "area": "Ideas y oportunidades",
+      "competence": "Pensamiento \u00e9tico y sostenible",
+      "hint": "Evaluar las consecuencias y el impacto de las ideas, oportunidades y acciones",
+      "question": "Aceptar la responsabilidad de mis acciones ",
+      "id": 22
+    },
+    {
+      "area": "Recursos",
+      "competence": "Autoconciencia y autoeficacia",
+      "hint": "Confiar en mi capacidad para realizar las tareas y lograr los resultados deseados",
+      "question": "Seguir mis aspiraciones traduci\u00e9ndolas en objetivos alcanzables",
+      "id": 23
+    },
+    {
+      "area": "Recursos",
+      "competence": "Autoconciencia y autoeficacia",
+      "hint": "Confiar en mi capacidad para realizar las tareas y lograr los resultados deseados",
+      "question": "Identificar regularmente mis fortalezas y debilidades",
+      "id": 24
+    },
+    {
+      "area": "Recursos",
+      "competence": "Autoconciencia y autoeficacia",
+      "hint": "Confiar en mi capacidad para realizar las tareas y lograr los resultados deseados",
+      "question": "Implementar una idea intraemprendedora confiando que puedo abordar las dificultades que puedan surgir ",
+      "id": 25
+    },
+    {
+      "area": "Recursos",
+      "competence": "Autoconciencia y autoeficacia",
+      "hint": "Confiar en mi capacidad para realizar las tareas y lograr los resultados deseados",
+      "question": "Dar forma a mi futuro desarrollando las habilidades necesarias",
+      "id": 26
+    },
+    {
+      "area": "Recursos",
+      "competence": "Motivaci\u00f3n y perseverancia",
+      "hint": "Mantenerme enfocado/a en mi prop\u00f3sito y no dispersarme",
+      "question": "Mantener mi atenci\u00f3n y foco en las tareas a largo plazo",
+      "id": 27
+    },
+    {
+      "area": "Recursos",
+      "competence": "Motivaci\u00f3n y perseverancia",
+      "hint": "Mantenerme enfocado/a en mi prop\u00f3sito y no dispersarme",
+      "question": "Mantener la motivaci\u00f3n y la pasi\u00f3n a la hora de llevar a cabo una idea intraemprendedora",
+      "id": 28
+    },
+    {
+      "area": "Recursos",
+      "competence": "Motivaci\u00f3n y perseverancia",
+      "hint": "Mantenerme enfocado/a en mi prop\u00f3sito y no dispersarme",
+      "question": "Perseverar en la consecuci\u00f3n de mis objetivos, a pesar de las dificultades",
+      "id": 29
+    },
+    {
+      "area": "Recursos",
+      "competence": "Motivaci\u00f3n y perseverancia",
+      "hint": "Mantenerme enfocado/a en mi prop\u00f3sito y no dispersarme",
+      "question": "Mostrar resiliencia (mantenerse emocionalmente estable) ante las adversidades",
+      "id": 30
+    },
+    {
+      "area": "Recursos",
+      "competence": "Movilizar recursos (financieros)",
+      "hint": "Conseguir y gestionar los recursos necesarios",
+      "question": "Adquirir los recursos (materiales y no materiales) necesarios para que una idea intraemprendedora tenga \u00e9xito",
+      "id": 31
+    },
+    {
+      "area": "Recursos",
+      "competence": "Movilizar recursos (financieros)",
+      "hint": "Conseguir y gestionar los recursos necesarios",
+      "question": "Aprovechar al m\u00e1ximo los recursos limitados",
+      "id": 32
+    },
+    {
+      "area": "Recursos",
+      "competence": "Movilizar recursos (financieros)",
+      "hint": "Conseguir y gestionar los recursos necesarios",
+      "question": "Dise\u00f1ar proactivamente un presupuesto vinculado a una idea o proyecto",
+      "id": 33
+    },
+    {
+      "area": "Recursos",
+      "competence": "Movilizar recursos (financieros)",
+      "hint": "Conseguir y gestionar los recursos necesarios",
+      "question": "Garantizar la financiaci\u00f3n de una idea o proyecto mediante la obtenci\u00f3n de fondos de diversas fuentes",
+      "id": 34
+    },
+    {
+      "area": "Recursos",
+      "competence": "Movilizar recursos (financieros)",
+      "hint": "Conseguir y gestionar los recursos necesarios",
+      "question": "Comprender y cumplir con la normativa fiscal",
+      "id": 35
+    },
+    {
+      "area": "Recursos",
+      "competence": "Educaci\u00f3n empresarial",
+      "hint": "Desarrollar conocimientos financieros, econ\u00f3micos y empresariales",
+      "question": "Aprender conceptos econ\u00f3micos y financieros (como oferta y demanda, flujo de caja, ganancias y p\u00e9rdidas)",
+      "id": 36
+    },
+    {
+      "area": "Recursos",
+      "competence": "Educaci\u00f3n empresarial",
+      "hint": "Desarrollar conocimientos financieros, econ\u00f3micos y empresariales",
+      "question": "Comprender los conceptos de marketing y ventas (como producto, precio, promoci\u00f3n y localizaci\u00f3n)  ",
+      "id": 37
+    },
+    {
+      "area": "Recursos",
+      "competence": "Educaci\u00f3n empresarial",
+      "hint": "Desarrollar conocimientos financieros, econ\u00f3micos y empresariales",
+      "question": "Desarrollar otros conocimientos clave necesarios para poner en pr\u00e1ctica una idea intraemprendedora, como las operaciones, la planificaci\u00f3n estrat\u00e9gica, la contrataci\u00f3n...",
+      "id": 38
+    },
+    {
+      "area": "Recursos",
+      "competence": "Educaci\u00f3n empresarial",
+      "hint": "Desarrollar conocimientos financieros, econ\u00f3micos y empresariales",
+      "question": "Aprovechar mis conocimientos de los aspectos legales para desarrollar una idea intraemprendedora",
+      "id": 39
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar a otras personas",
+      "hint": "Inspirar, entusiasmar y hacer participar a los dem\u00e1s",
+      "question": "Buscar inspiraci\u00f3n en otras personas que me sirvan como modelo a seguir",
+      "id": 40
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar a otras personas",
+      "hint": "Inspirar, entusiasmar y hacer participar a los dem\u00e1s",
+      "question": "Inspirar a otras personas manteniendo la energ\u00eda incluso en circunstancias adversas",
+      "id": 41
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar a otras personas",
+      "hint": "Inspirar, entusiasmar y hacer participar a los dem\u00e1s",
+      "question": "Persuadir a los dem\u00e1s para que se involucren con una idea intraemprendedora",
+      "id": 42
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar a otras personas",
+      "hint": "Inspirar, entusiasmar y hacer participar a los dem\u00e1s",
+      "question": "Desarrollar estrategias \u00e9ticas de negociaci\u00f3n",
+      "id": 43
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar a otras personas",
+      "hint": "Inspirar, entusiasmar y hacer participar a los dem\u00e1s",
+      "question": "Comunicar mi mensaje de forma clara y eficaz",
+      "id": 44
+    },
+    {
+      "area": "Recursos",
+      "competence": "Involucrar a otras personas",
+      "hint": "Inspirar, entusiasmar y hacer participar a los dem\u00e1s",
+      "question": "Desarrollar estrategias eficaces de comunicaci\u00f3n (redes sociales y otros medios) para involucrar a los dem\u00e1s",
+      "id": 45
+    },
+    {
+      "area": "Recursos",
+      "competence": "Competencias digitales",
+      "hint": "Gestionar y utilizar las tecnolog\u00edas digitales necesarias para una idea emprendedora ",
+      "question": "Saber cu\u00e1ndo y c\u00f3mo utilizar las herramientas digitales generales (procesador de textos, hojas de c\u00e1lculo, herramientas de comunicaci\u00f3n en l\u00ednea, etc.) m\u00e1s adecuadas para mi prop\u00f3sito",
+      "id": 46
+    },
+    {
+      "area": "Recursos",
+      "competence": "Competencias digitales",
+      "hint": "Gestionar y utilizar las tecnolog\u00edas digitales necesarias para una idea emprendedora ",
+      "question": "Emplear herramientas digitales avanzadas (CRM, anal\u00edtica web, etc.) para hacer crecer una idea intraemprendedora",
+      "id": 47
+    },
+    {
+      "area": "Recursos",
+      "competence": "Competencias digitales",
+      "hint": "Gestionar y utilizar las tecnolog\u00edas digitales necesarias para una idea emprendedora ",
+      "question": "Comunicar informaci\u00f3n y datos de manera significativa y clara, por ejemplo con gr\u00e1ficos y tablas",
+      "id": 48
+    },
+    {
+      "area": "Recursos",
+      "competence": "Competencias digitales",
+      "hint": "Gestionar y utilizar las tecnolog\u00edas digitales necesarias para una idea emprendedora ",
+      "question": "Garantizar la seguridad propia y de los dem\u00e1s frente a los riesgos de ciberseguridad mediante medidas de protecci\u00f3n (por ejemplo, directrices antiphishing, protecci\u00f3n contra el malware, etc.)     ",
+      "id": 49
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Tomar la iniciativa",
+      "hint": "Pasar a la acci\u00f3n",
+      "question": "Asumir la responsabilidad en la realizaci\u00f3n de las tareas",
+      "id": 50
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Tomar la iniciativa",
+      "hint": "Pasar a la acci\u00f3n",
+      "question": "Trabajar con autonom\u00eda e independencia m\u00e1s all\u00e1 de las limitaciones organizativas",
+      "id": 51
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Tomar la iniciativa",
+      "hint": "Pasar a la acci\u00f3n",
+      "question": "Iniciar acciones sobre nuevas ideas y oportunidades",
+      "id": 52
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Planificaci\u00f3n y gesti\u00f3n",
+      "hint": "Priorizar, organizar y realizar seguimiento",
+      "question": "Definir objetivos claros, realistas y alcanzables",
+      "id": 53
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Planificaci\u00f3n y gesti\u00f3n",
+      "hint": "Priorizar, organizar y realizar seguimiento",
+      "question": "Realizar una planificaci\u00f3n y organizaci\u00f3n del trabajo para que una idea intraemprendedora tenga \u00e9xito",
+      "id": 54
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Planificaci\u00f3n y gesti\u00f3n",
+      "hint": "Priorizar, organizar y realizar seguimiento",
+      "question": "Definir prioridades para las tareas, incluso en circunstancias inciertas    ",
+      "id": 55
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Planificaci\u00f3n y gesti\u00f3n",
+      "hint": "Priorizar, organizar y realizar seguimiento",
+      "question": "Desarrollar t\u00e9cnicas efectivas de gesti\u00f3n del tiempo",
+      "id": 56
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Planificaci\u00f3n y gesti\u00f3n",
+      "hint": "Priorizar, organizar y realizar seguimiento",
+      "question": "Desarrollar un plan de acci\u00f3n sostenible para una idea intraemprendedora",
+      "id": 57
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Gestionar el proceso",
+      "hint": "Gestionar y alinear los procesos con los objetivos para tener \u00e9xito en una idea emprendedora",
+      "question": "Supervisar el progreso de un proyecto mediante el uso de indicadores adecuados",
+      "id": 58
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Gestionar el proceso",
+      "hint": "Gestionar y alinear los procesos con los objetivos para tener \u00e9xito en una idea emprendedora",
+      "question": "Reorientar mis planes cuando sea necesario",
+      "id": 59
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Gestionar el proceso",
+      "hint": "Gestionar y alinear los procesos con los objetivos para tener \u00e9xito en una idea emprendedora",
+      "question": "Ser flexible y adaptarme a los cambios",
+      "id": 60
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Gestionar el proceso",
+      "hint": "Gestionar y alinear los procesos con los objetivos para tener \u00e9xito en una idea emprendedora",
+      "question": "Anticiparme a los cambios del equipo y ser capaz de responder a ellos",
+      "id": 61
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Gestionar el proceso",
+      "hint": "Gestionar y alinear los procesos con los objetivos para tener \u00e9xito en una idea emprendedora",
+      "question": "Trabajar de forma \u00e1gil planificando objetivos alcanzables a corto plazo y  adaptando mis planes en funci\u00f3n de mis resultados",
+      "id": 62
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Manejar la incertidumbre, la ambig\u00fcedad y el riesgo",
+      "hint": "Decidir y liderar incluso en situaciones imprecisas",
+      "question": "Hacer frente a la incertidumbre, la ambig\u00fcedad y el riesgo",
+      "id": 63
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Manejar la incertidumbre, la ambig\u00fcedad y el riesgo",
+      "hint": "Decidir y liderar incluso en situaciones imprecisas",
+      "question": "Calcular el riesgo frente al beneficio de una idea intraemprendedora",
+      "id": 64
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Manejar la incertidumbre, la ambig\u00fcedad y el riesgo",
+      "hint": "Decidir y liderar incluso en situaciones imprecisas",
+      "question": "Desarrollar estrategias de gesti\u00f3n de riesgos para una idea intraemprendedora",
+      "id": 65
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Validaci\u00f3n del dise\u00f1o y cocreaci\u00f3n",
+      "hint": "Co-crear, prototipar y testear con los usuarios",
+      "question": "Identificar las funciones b\u00e1sicas de un prototipo",
+      "id": 66
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Validaci\u00f3n del dise\u00f1o y cocreaci\u00f3n",
+      "hint": "Co-crear, prototipar y testear con los usuarios",
+      "question": "Probar y perfeccionar las asunciones b\u00e1sicas de una idea mediante el dise\u00f1o de un prototipo",
+      "id": 67
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Validaci\u00f3n del dise\u00f1o y cocreaci\u00f3n",
+      "hint": "Co-crear, prototipar y testear con los usuarios",
+      "question": "Co-crear productos, servicios o soluciones con otras personas",
+      "id": 68
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Trabajar con otras personas",
+      "hint": "Formar equipos, trabajar juntos y establecer contactos",
+      "question": "Promover la diversidad en mi equipo estando abierto a diferentes perfiles y puntos de vista",
+      "id": 69
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Trabajar con otras personas",
+      "hint": "Formar equipos, trabajar juntos y establecer contactos",
+      "question": "Desarrollar y mostrar inteligencia emocional",
+      "id": 70
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Trabajar con otras personas",
+      "hint": "Formar equipos, trabajar juntos y establecer contactos",
+      "question": "Escuchar activamente a mis usuarios y otras partes interesadas relevantes",
+      "id": 71
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Trabajar con otras personas",
+      "hint": "Formar equipos, trabajar juntos y establecer contactos",
+      "question": "Movilizar no s\u00f3lo a mi equipo, sino tambi\u00e9n construir un peque\u00f1o ecosistema dentro de la organizaci\u00f3n",
+      "id": 72
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Trabajar con otras personas",
+      "hint": "Formar equipos, trabajar juntos y establecer contactos",
+      "question": "Trabajar con los dem\u00e1s de forma estructurada y armoniosa",
+      "id": 73
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Trabajar con otras personas",
+      "hint": "Formar equipos, trabajar juntos y establecer contactos",
+      "question": "Desarrollar relaciones emocionalmente positivas con los miembros del equipo (incluidos mentores, inversores, colegas, supervisores, etc.)",
+      "id": 74
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Trabajar con otras personas",
+      "hint": "Formar equipos, trabajar juntos y establecer contactos",
+      "question": "Construir una red de personas que apoye mi idea intraemprendedora",
+      "id": 75
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Trabajar con otras personas",
+      "hint": "Formar equipos, trabajar juntos y establecer contactos",
+      "question": "Expandir mi red de forma proactiva",
+      "id": 76
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Aprender de la experiencia",
+      "hint": "Aprender haciendo",
+      "question": "Reflexionar y aprender de los fracasos y logros",
+      "id": 77
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Aprender de la experiencia",
+      "hint": "Aprender haciendo",
+      "question": "Aprovechar activamente las oportunidades de aprendizaje para potenciar mis fortalezas y reducir mis debilidades",
+      "id": 78
+    },
+    {
+      "area": "Pasar a la acci\u00f3n",
+      "competence": "Aprender de la experiencia",
+      "hint": "Aprender haciendo",
+      "question": "Aprender de mis experiencias y las de los dem\u00e1s",
+      "id": 79
+    }
+  ]
+}

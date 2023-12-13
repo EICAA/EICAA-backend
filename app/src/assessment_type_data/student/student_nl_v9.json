@@ -1,0 +1,600 @@
+{
+  "language": "nl",
+  "version": 9,
+  "assessment_type": "student",
+  "last_created": "16/03/2023 10:14:17",
+  "staticText": {
+    "ableTo": "Ik ben in staat om...",
+    "area": "Area",
+    "back": "Terug",
+    "continue": "Ga door",
+    "finish": "Afwerking",
+    "hint": "Hint",
+    "previous": "Vorige",
+    "next": "Volgende"
+  },
+  "answers": [
+    { "score": 1, "title": "None", "description": "Have no understanding." },
+    {
+      "score": 2,
+      "title": "Basaal",
+      "description": "Een basiskennis hebben."
+    },
+    {
+      "score": 3,
+      "title": "Intermediair",
+      "description": "Ervaring hebben met het toepassen.."
+    },
+    {
+      "score": 4,
+      "title": "Geavanceerd",
+      "description": "Despite challenges have achieved the desired results."
+    },
+    {
+      "score": 5,
+      "title": "Expert",
+      "description": "Beschouwd als referentie en inspiratie."
+    },
+    {
+      "score": 0,
+      "title": "Skip",
+      "description": "De vraag/antwoord optie is niet duidelijk."
+    }
+  ],
+  "areas": [],
+  "items": [
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Kansen zien",
+      "hint": "Gebruik uw verbeelding, kennis en vaardigheden om mogelijkheden te identificeren voor het cre\u00ebren van waarde.",
+      "question": "De marktomgeving scannen om relevante informatie te verkrijgen",
+      "id": 1
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Kansen zien",
+      "hint": "Gebruik uw verbeelding, kennis en vaardigheden om mogelijkheden te identificeren voor het cre\u00ebren van waarde.",
+      "question": "Uitdagingen identificeren door gangbare idee\u00ebn in vraag te stellen",
+      "id": 2
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Kansen zien",
+      "hint": "Gebruik uw verbeelding, kennis en vaardigheden om mogelijkheden te identificeren voor het cre\u00ebren van waarde.",
+      "question": "Kansen cre\u00ebren door mijn kennis actief te gebruiken",
+      "id": 3
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Kansen zien",
+      "hint": "Gebruik uw verbeelding, kennis en vaardigheden om mogelijkheden te identificeren voor het cre\u00ebren van waarde.",
+      "question": "Kansen ontdekken door interactie met anderen (zoals collega's, mentoren, etc.)",
+      "id": 4
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Design Ori\u00ebntatie",
+      "hint": "Je aanbod richten op de behoeften van de gebruikers",
+      "question": "Een gebruikersgericht aanbod ontwikkelen",
+      "id": 5
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Design Ori\u00ebntatie",
+      "hint": "Je aanbod richten op de behoeften van de gebruikers",
+      "question": "De behoeften van relevante doelgroepen in kaart brengen",
+      "id": 6
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Design Ori\u00ebntatie",
+      "hint": "Je aanbod richten op de behoeften van de gebruikers",
+      "question": "Anticiperen op toekomstige behoeften",
+      "id": 7
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Creativiteit",
+      "hint": "Creatieve en doelgerichte idee\u00ebn ontwikkelen",
+      "question": "De status quo uitdagen, d.w.z. de huidige oplossingen en werkwijzen in twijfel trekken en alternatieve perspectieven aanreiken",
+      "id": 8
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Creativiteit",
+      "hint": "Creatieve en doelgerichte idee\u00ebn ontwikkelen",
+      "question": "Disruptieve veranderingen promoten en leiden",
+      "id": 9
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Creativiteit",
+      "hint": "Creatieve en doelgerichte idee\u00ebn ontwikkelen",
+      "question": "Problemen creatief oplossen",
+      "id": 10
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Creativiteit",
+      "hint": "Creatieve en doelgerichte idee\u00ebn ontwikkelen",
+      "question": "Idee\u00ebn genereren en ontwikkelen",
+      "id": 11
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Creativiteit",
+      "hint": "Creatieve en doelgerichte idee\u00ebn ontwikkelen",
+      "question": "Ontwikkelen en implementeren van innovaties (product, technologie, proces, marketing, enz.)",
+      "id": 12
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Visie",
+      "hint": "Werk aan uw visie voor de toekomst",
+      "question": "Een inspirerende visie ontwikkelen om betrokkenheid bij een ondernemend idee te krijgen",
+      "id": 13
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Visie",
+      "hint": "Werk aan uw visie voor de toekomst",
+      "question": "Strategisch denken in lijn met mijn langetermijnvisie",
+      "id": 14
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Visie",
+      "hint": "Werk aan uw visie voor de toekomst",
+      "question": "Actie aansturen door een actieplan of een takenlijst op te stellen en uit te voeren",
+      "id": 15
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Idee\u00ebn waarderen",
+      "hint": "Benut idee\u00ebn en kansen optimaal",
+      "question": "Strategie\u00ebn ontwikkelen om de waarde van nieuwe idee\u00ebn te beoordelen",
+      "id": 16
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Idee\u00ebn waarderen",
+      "hint": "Benut idee\u00ebn en kansen optimaal",
+      "question": "Identificeren welke stakeholder aan welk soort waarde de voorkeur geeft (economisch, invloed, harmonie, enz.) bij een nieuw idee ",
+      "id": 17
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Idee\u00ebn waarderen",
+      "hint": "Benut idee\u00ebn en kansen optimaal",
+      "question": "Intellectueel eigendom beschermen en delen door middel van passende strategie\u00ebn (zoals octrooien, auteursrechten, handelsmerken, overeenkomsten, enz.)",
+      "id": 18
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Ethisch en duurzaam denken",
+      "hint": "De gevolgen en impact van idee\u00ebn, kansen en acties beoordelen",
+      "question": "Ethisch gedrag aannemen en bevorderen bij het omzetten van een idee in actie:",
+      "id": 19
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Ethisch en duurzaam denken",
+      "hint": "De gevolgen en impact van idee\u00ebn, kansen en acties beoordelen",
+      "question": "Nadenken over de duurzame impact van mijn acties voordat ik ze uitvoer",
+      "id": 20
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Ethisch en duurzaam denken",
+      "hint": "De gevolgen en impact van idee\u00ebn, kansen en acties beoordelen",
+      "question": "Het effect van wat ik doe opvolgen en beoordelen ",
+      "id": 21
+    },
+    {
+      "area": "Idee\u00ebn en mogelijkheden",
+      "competence": "Ethisch en duurzaam denken",
+      "hint": "De gevolgen en impact van idee\u00ebn, kansen en acties beoordelen",
+      "question": "Verantwoordelijkheid aanvaarden voor mijn acties ",
+      "id": 22
+    },
+    {
+      "area": "Middelen",
+      "competence": "Zelfbewustzijn en zelfeffectiviteit",
+      "hint": "Geloof in uw vermogen om taken uit te voeren en de gewenste resultaten te bereiken",
+      "question": "Mijn ambities volgen door ze te vertalen in haalbare doelen",
+      "id": 23
+    },
+    {
+      "area": "Middelen",
+      "competence": "Zelfbewustzijn en zelfeffectiviteit",
+      "hint": "Geloof in uw vermogen om taken uit te voeren en de gewenste resultaten te bereiken",
+      "question": "Mijn sterke en zwakke punten regelmatig identificeren",
+      "id": 24
+    },
+    {
+      "area": "Middelen",
+      "competence": "Zelfbewustzijn en zelfeffectiviteit",
+      "hint": "Geloof in uw vermogen om taken uit te voeren en de gewenste resultaten te bereiken",
+      "question": "Een ondernemend idee uitvoeren in de overtuiging dat ik de moeilijkheden die zich kunnen voordoen kan aanpakken ",
+      "id": 25
+    },
+    {
+      "area": "Middelen",
+      "competence": "Zelfbewustzijn en zelfeffectiviteit",
+      "hint": "Geloof in uw vermogen om taken uit te voeren en de gewenste resultaten te bereiken",
+      "question": "Mijn toekomst vormgeven door de nodige vaardigheden te ontwikkelen",
+      "id": 26
+    },
+    {
+      "area": "Middelen",
+      "competence": "Motivatie en doorzettingsvermogen",
+      "hint": "Blijf gefocust en geef niet op",
+      "question": "Mijn focus op lange termijn taken behouden",
+      "id": 27
+    },
+    {
+      "area": "Middelen",
+      "competence": "Motivatie en doorzettingsvermogen",
+      "hint": "Blijf gefocust en geef niet op",
+      "question": "Gemotiveerd en gepassioneerd blijven bij het realiseren van een ondernemersidee",
+      "id": 28
+    },
+    {
+      "area": "Middelen",
+      "competence": "Motivatie en doorzettingsvermogen",
+      "hint": "Blijf gefocust en geef niet op",
+      "question": "Volharden in het nastreven van mijn doelen, ondanks moeilijkheden",
+      "id": 29
+    },
+    {
+      "area": "Middelen",
+      "competence": "Motivatie en doorzettingsvermogen",
+      "hint": "Blijf gefocust en geef niet op",
+      "question": "Veerkracht tonen (emotioneel gezond blijven) bij tegenslagen",
+      "id": 30
+    },
+    {
+      "area": "Middelen",
+      "competence": "Inzet van (financi\u00eble) middelen",
+      "hint": "De middelen krijgen en beheren die u nodig hebt",
+      "question": "Verwerven van (materi\u00eble en immateri\u00eble) middelen die nodig zijn om een ondernemersidee succesvol te maken",
+      "id": 31
+    },
+    {
+      "area": "Middelen",
+      "competence": "Inzet van (financi\u00eble) middelen",
+      "hint": "De middelen krijgen en beheren die u nodig hebt",
+      "question": "Beperkte middelen optimaal benutten",
+      "id": 32
+    },
+    {
+      "area": "Middelen",
+      "competence": "Inzet van (financi\u00eble) middelen",
+      "hint": "De middelen krijgen en beheren die u nodig hebt",
+      "question": "Proactief een budgetplan opstellen ",
+      "id": 33
+    },
+    {
+      "area": "Middelen",
+      "competence": "Inzet van (financi\u00eble) middelen",
+      "hint": "De middelen krijgen en beheren die u nodig hebt",
+      "question": "Zorgen voor financiering door geld in te zamelen vanuit diverse bronnen",
+      "id": 34
+    },
+    {
+      "area": "Middelen",
+      "competence": "Inzet van (financi\u00eble) middelen",
+      "hint": "De middelen krijgen en beheren die u nodig hebt",
+      "question": "De basismechanismen van belastingheffing begrijpen en naleven",
+      "id": 35
+    },
+    {
+      "area": "Middelen",
+      "competence": "Ondernemende geletterdheid",
+      "hint": "Financi\u00eble, economische en ondernemende knowhow ontwikkelen",
+      "question": "Leren over economische en financi\u00eble concepten (zoals vraag en aanbod, cashflow, winst en verlies)",
+      "id": 36
+    },
+    {
+      "area": "Middelen",
+      "competence": "Ondernemende geletterdheid",
+      "hint": "Financi\u00eble, economische en ondernemende knowhow ontwikkelen",
+      "question": "Inzicht in marketing- en verkoopconcepten (zoals product, prijs, promotie)  ",
+      "id": 37
+    },
+    {
+      "area": "Middelen",
+      "competence": "Ondernemende geletterdheid",
+      "hint": "Financi\u00eble, economische en ondernemende knowhow ontwikkelen",
+      "question": "Knowhow ontwikkelen over andere sleutelconcepten die nodig zijn om een ondernemersidee uit te voeren, zoals bedrijfsvoering, strategische planning, personeelswerving",
+      "id": 38
+    },
+    {
+      "area": "Middelen",
+      "competence": "Ondernemende geletterdheid",
+      "hint": "Financi\u00eble, economische en ondernemende knowhow ontwikkelen",
+      "question": "Mijn kennis uitbreiden van de technisch-juridische aspecten om een ondernemersidee te realiseren",
+      "id": 39
+    },
+    {
+      "area": "Middelen",
+      "competence": "Anderen mobiliseren",
+      "hint": "Inspireer, enthousiasmeer en krijg anderen aan boord",
+      "question": "Inspiratie zoeken bij rolmodellen",
+      "id": 40
+    },
+    {
+      "area": "Middelen",
+      "competence": "Anderen mobiliseren",
+      "hint": "Inspireer, enthousiasmeer en krijg anderen aan boord",
+      "question": "Anderen inspireren door het momentum te behouden, zelfs in ongunstige omstandigheden",
+      "id": 41
+    },
+    {
+      "area": "Middelen",
+      "competence": "Anderen mobiliseren",
+      "hint": "Inspireer, enthousiasmeer en krijg anderen aan boord",
+      "question": "Anderen overtuigen om hen te betrekken bij een ondernemend idee",
+      "id": 42
+    },
+    {
+      "area": "Middelen",
+      "competence": "Anderen mobiliseren",
+      "hint": "Inspireer, enthousiasmeer en krijg anderen aan boord",
+      "question": "Ethische onderhandelingsstrategie\u00ebn ontwikkelen",
+      "id": 43
+    },
+    {
+      "area": "Middelen",
+      "competence": "Anderen mobiliseren",
+      "hint": "Inspireer, enthousiasmeer en krijg anderen aan boord",
+      "question": "Mijn boodschap duidelijk en effectief overbrengen",
+      "id": 44
+    },
+    {
+      "area": "Middelen",
+      "competence": "Anderen mobiliseren",
+      "hint": "Inspireer, enthousiasmeer en krijg anderen aan boord",
+      "question": "Effectieve (sociale en andere) mediastrategie\u00ebn ontwikkelen om anderen te mobiliseren.",
+      "id": 45
+    },
+    {
+      "area": "Middelen",
+      "competence": "Digitale competenties",
+      "hint": "Beheer en gebruik de digitale technologie\u00ebn die nodig zijn voor een ondernemend idee ",
+      "question": "Weten wanneer en hoe ik algemene digitale hulpmiddelen (MS Office, virtuele communicatie, enz.) moet gebruiken die het meest geschikt zijn voor mijn doel.",
+      "id": 46
+    },
+    {
+      "area": "Middelen",
+      "competence": "Digitale competenties",
+      "hint": "Beheer en gebruik de digitale technologie\u00ebn die nodig zijn voor een ondernemend idee ",
+      "question": "Complexe digitale hulpmiddelen (CRM, webanalyse, enz.) inzetten om een ondernemend idee te laten groeien",
+      "id": 47
+    },
+    {
+      "area": "Middelen",
+      "competence": "Digitale competenties",
+      "hint": "Beheer en gebruik de digitale technologie\u00ebn die nodig zijn voor een ondernemend idee ",
+      "question": "Gegevens rapporteren op zinvolle en duidelijke manieren zoals grafieken en diagrammen",
+      "id": 48
+    },
+    {
+      "area": "Middelen",
+      "competence": "Digitale competenties",
+      "hint": "Beheer en gebruik de digitale technologie\u00ebn die nodig zijn voor een ondernemend idee ",
+      "question": "Met beschermende maatregelen zorgen voor je eigen cyber-veiligheid en die van anderen (bijv. Antiphishingrichtlijnen, bescherming tegen malware, enz.):     ",
+      "id": 49
+    },
+    {
+      "area": "In actie",
+      "competence": "Initiatief nemen",
+      "hint": "Ervoor gaan",
+      "question": "Verantwoordelijkheid nemen tijdens het uitvoeren van taken",
+      "id": 50
+    },
+    {
+      "area": "In actie",
+      "competence": "Initiatief nemen",
+      "hint": "Ervoor gaan",
+      "question": "Zelfstandig werken wanneer dat nodig is",
+      "id": 51
+    },
+    {
+      "area": "In actie",
+      "competence": "Initiatief nemen",
+      "hint": "Ervoor gaan",
+      "question": "Actie ondernemen op basis van nieuwe idee\u00ebn en kansen",
+      "id": 52
+    },
+    {
+      "area": "In actie",
+      "competence": "Planning en Management",
+      "hint": "Stel prioriteiten, organiseer en volg op",
+      "question": "Duidelijke en haalbare doelen stellen",
+      "id": 53
+    },
+    {
+      "area": "In actie",
+      "competence": "Planning en Management",
+      "hint": "Stel prioriteiten, organiseer en volg op",
+      "question": "Zorgvuldig plannen en organiseren om een ondernemend idee te doen slagen",
+      "id": 54
+    },
+    {
+      "area": "In actie",
+      "competence": "Planning en Management",
+      "hint": "Stel prioriteiten, organiseer en volg op",
+      "question": "Prioriteiten stellen voor taken, zelfs in onzekere omstandigheden    ",
+      "id": 55
+    },
+    {
+      "area": "In actie",
+      "competence": "Planning en Management",
+      "hint": "Stel prioriteiten, organiseer en volg op",
+      "question": "Effectieve technieken voor tijdbeheer ontwikkelen",
+      "id": 56
+    },
+    {
+      "area": "In actie",
+      "competence": "Planning en Management",
+      "hint": "Stel prioriteiten, organiseer en volg op",
+      "question": "Een duurzaam actieplan ontwikkelen voor een ondernemend idee",
+      "id": 57
+    },
+    {
+      "area": "In actie",
+      "competence": "Procesmanagement",
+      "hint": "Beheer en stem processen af op de doelen om te slagen in een ondernemend idee",
+      "question": "De voortgang bewaken met behulp van gepaste prestatiemetingen",
+      "id": 58
+    },
+    {
+      "area": "In actie",
+      "competence": "Procesmanagement",
+      "hint": "Beheer en stem processen af op de doelen om te slagen in een ondernemend idee",
+      "question": "Mijn plannen bijsturen wanneer nodig",
+      "id": 59
+    },
+    {
+      "area": "In actie",
+      "competence": "Procesmanagement",
+      "hint": "Beheer en stem processen af op de doelen om te slagen in een ondernemend idee",
+      "question": "Flexibel zijn en me aanpassen aan veranderingen",
+      "id": 60
+    },
+    {
+      "area": "In actie",
+      "competence": "Procesmanagement",
+      "hint": "Beheer en stem processen af op de doelen om te slagen in een ondernemend idee",
+      "question": "Anticiperen op teamveranderingen en hierop kunnen inspelen",
+      "id": 61
+    },
+    {
+      "area": "In actie",
+      "competence": "Procesmanagement",
+      "hint": "Beheer en stem processen af op de doelen om te slagen in een ondernemend idee",
+      "question": "Wendbaar werken door korte termijn en haalbare doelen te stellen en mijn plannen aan te passen op basis van mijn resultaten",
+      "id": 62
+    },
+    {
+      "area": "In actie",
+      "competence": "Omgaan met onzekerheid, ambigu\u00efteit en risico's",
+      "hint": "Maak beslissingen en geef leiding, zelfs in vage situaties",
+      "question": "Omgaan met onzekerheid, ambigu\u00efteit en risico's",
+      "id": 63
+    },
+    {
+      "area": "In actie",
+      "competence": "Omgaan met onzekerheid, ambigu\u00efteit en risico's",
+      "hint": "Maak beslissingen en geef leiding, zelfs in vage situaties",
+      "question": "Het risico versus het voordeel van een ondernemend idee berekenen",
+      "id": 64
+    },
+    {
+      "area": "In actie",
+      "competence": "Omgaan met onzekerheid, ambigu\u00efteit en risico's",
+      "hint": "Maak beslissingen en geef leiding, zelfs in vage situaties",
+      "question": "Risicobeheerstrategie\u00ebn ontwikkelen voor een ondernemend idee",
+      "id": 65
+    },
+    {
+      "area": "In actie",
+      "competence": "Ontwerpvalidatie en co-creatie",
+      "hint": "Co-cre\u00eber, prototype en test met de gebruikers",
+      "question": "De basisfuncties van een prototype bepalen",
+      "id": 66
+    },
+    {
+      "area": "In actie",
+      "competence": "Ontwerpvalidatie en co-creatie",
+      "hint": "Co-cre\u00eber, prototype en test met de gebruikers",
+      "question": "Testen en verfijnen van de belangrijkste assumpties en van het prototype",
+      "id": 67
+    },
+    {
+      "area": "In actie",
+      "competence": "Ontwerpvalidatie en co-creatie",
+      "hint": "Co-cre\u00eber, prototype en test met de gebruikers",
+      "question": "Producten, diensten of oplossingen co-cre\u00ebren met anderen",
+      "id": 68
+    },
+    {
+      "area": "In actie",
+      "competence": "Werken met anderen",
+      "hint": "Vorm teams, werk samen en doe aan netwerken",
+      "question": "De diversiteit in mijn team bevorderen door open te staan voor verschillende profielen en standpunten",
+      "id": 69
+    },
+    {
+      "area": "In actie",
+      "competence": "Werken met anderen",
+      "hint": "Vorm teams, werk samen en doe aan netwerken",
+      "question": "Ontwikkelen en tonen van emotionele intelligentie",
+      "id": 70
+    },
+    {
+      "area": "In actie",
+      "competence": "Werken met anderen",
+      "hint": "Vorm teams, werk samen en doe aan netwerken",
+      "question": "Actief luisteren naar mijn gebruikers en andere relevante stakeholders",
+      "id": 71
+    },
+    {
+      "area": "In actie",
+      "competence": "Werken met anderen",
+      "hint": "Vorm teams, werk samen en doe aan netwerken",
+      "question": "Een team samenstellen met evenwichtige en complementaire vaardigheden",
+      "id": 72
+    },
+    {
+      "area": "In actie",
+      "competence": "Werken met anderen",
+      "hint": "Vorm teams, werk samen en doe aan netwerken",
+      "question": "Systematisch en harmonieus samenwerken met anderen",
+      "id": 73
+    },
+    {
+      "area": "In actie",
+      "competence": "Werken met anderen",
+      "hint": "Vorm teams, werk samen en doe aan netwerken",
+      "question": "Het ontwikkelen van positieve verbinding met projectpartners (waaronder mentoren, investeerders, enz.):  ",
+      "id": 74
+    },
+    {
+      "area": "In actie",
+      "competence": "Werken met anderen",
+      "hint": "Vorm teams, werk samen en doe aan netwerken",
+      "question": "Een netwerk uitbouwen dat mijn ondernemersidee ondersteunt",
+      "id": 75
+    },
+    {
+      "area": "In actie",
+      "competence": "Werken met anderen",
+      "hint": "Vorm teams, werk samen en doe aan netwerken",
+      "question": "Mijn netwerk proactief uitbreiden",
+      "id": 76
+    },
+    {
+      "area": "In actie",
+      "competence": "Leren door ervaring",
+      "hint": "Leren door te doen",
+      "question": "Reflecteren op en leren uit mislukkingen en successen",
+      "id": 77
+    },
+    {
+      "area": "In actie",
+      "competence": "Leren door ervaring",
+      "hint": "Leren door te doen",
+      "question": "Actief inspelen op kansen om mijn sterke punten te ontwikkelen en mijn zwakke punten te verminderen:  ",
+      "id": 78
+    },
+    {
+      "area": "In actie",
+      "competence": "Leren door ervaring",
+      "hint": "Leren door te doen",
+      "question": "Leren van mijn of andermans eerdere ervaringen",
+      "id": 79
+    }
+  ]
+}
