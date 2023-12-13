@@ -1,6 +1,9 @@
 version: "3.5"
+
 services:
+
   mysql_eicaa:
+    container_name: eicaa_backend_mysql
     image: mysql:8.0.27
     command: --default-authentication-plugin=mysql_native_password
     restart: always
@@ -14,15 +17,28 @@ services:
       interval: 20s
       timeout: 5s
       retries: 15
-    network_mode: "host"
+    networks:
+      - eicaa
+
   express_eicaa:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    container_name: eicaa_backend_app
+    build: .
+    image: eicaa-backend:latest
+    ports:
+      - 127.0.0.1:3200:3200
     env_file: ./.env
     volumes:
       - ./app:/usr/src/app
       - /usr/src/app/node_modules
     depends_on:
       - mysql_eicaa
-    network_mode: "host"
+    networks:
+      - eicaa
+
+networks:
+  eicaa:
+    name: "eicaa-network"
+    ipam:
+      driver: default
+      config:
+      - subnet: "172.99.0.0/24"
